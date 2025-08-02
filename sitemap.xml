@@ -5,6 +5,10 @@
 <loc>https://www.timestacked.com/</loc>
 </url>
 <url>
+<loc>https://www.timestacked.com/about.html</loc>
+<lastmod>2025-08-02T15:47:03+02:00</lastmod>
+</url>
+<url>
 <loc>https://www.timestacked.com/blog.html</loc>
 <lastmod>2025-08-02T00:14:31+02:00</lastmod>
 </url>
@@ -30,6 +34,10 @@
 </url>
 <url>
 <loc>https://www.timestacked.com/top-tools.html</loc>
-<lastmod>2025-08-02T15:18:14+02:00</lastmod>
+<lastmod>2025-08-02T15:49:47+02:00</lastmod>
+<image:image>
+<image:loc>https://www.timestacked.com/media/posts/7/priscilla-du-preez-nNMBa7Y1Ymk-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>
