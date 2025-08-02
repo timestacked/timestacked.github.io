@@ -17,8 +17,8 @@
         <link href="https://www.timestacked.com/3-tech-stacks-that-run-entire-freelance-businesses.html"/>
         <id>https://www.timestacked.com/3-tech-stacks-that-run-entire-freelance-businesses.html</id>
         <media:content url="https://www.timestacked.com/media/posts/24/david-schultz-SrewPUfo2c0-unsplash.jpg" medium="image" />
-            <category term="tools"/>
             <category term="Workflow Tips"/>
+            <category term="Tools"/>
             <category term="Tech Stack"/>
             <category term="Freelancing"/>
 
@@ -87,7 +87,7 @@
         <link href="https://www.timestacked.com/side-hustle-essentials.html"/>
         <id>https://www.timestacked.com/side-hustle-essentials.html</id>
         <media:content url="https://www.timestacked.com/media/posts/19/garrhet-sampson-DSQda5dqWPw-unsplash.jpg" medium="image" />
-            <category term="side hustle"/>
+            <category term="Side Hustle"/>
 
         <updated>2025-08-02T18:33:17+02:00</updated>
             <summary>
@@ -118,8 +118,8 @@
         <link href="https://www.timestacked.com/freelancers-and-consultants.html"/>
         <id>https://www.timestacked.com/freelancers-and-consultants.html</id>
         <media:content url="https://www.timestacked.com/media/posts/18/keenan-beasley-7g5gW-j62E8-unsplash.jpg" medium="image" />
-            <category term="freelancer"/>
-            <category term="consultant"/>
+            <category term="Freelancer"/>
+            <category term="Consultant"/>
 
         <updated>2025-08-02T18:30:53+02:00</updated>
             <summary>
