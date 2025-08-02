@@ -3,7 +3,7 @@
     <title>TimeStacked</title>
     <link href="https://www.timestacked.com/feed.xml" rel="self" />
     <link href="https://www.timestacked.com" />
-    <updated>2025-08-02T17:57:55+02:00</updated>
+    <updated>2025-08-02T18:04:15+02:00</updated>
     <author>
         <name>Alex Deighton</name>
     </author>
@@ -67,7 +67,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.timestacked.com/media/posts/11/pexels-freestocks-34407.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Want more subscribers without spending 8 hours editing each video? These tools help creators script, record, optimize, and grow faster than ever.</p>
+                <p><strong>Want more subscribers without spending 8 hours editing each video? <br></strong>These tools help creators script, record, optimize, and grow faster than ever.</p>
 <p>---</p>
 <p data-start="2194" data-end="2211">The Tools:</p>
 <p data-start="2213" data-end="2262">1. <strong data-start="2221" data-end="2233">Descript</strong> – Edit Audio/Video by Text</p>
@@ -90,8 +90,8 @@
         <author>
             <name>Alex Deighton</name>
         </author>
-        <link href="https://www.timestacked.com/top-5-tools-for-students-to-study-smarter-not-harder.html"/>
-        <id>https://www.timestacked.com/top-5-tools-for-students-to-study-smarter-not-harder.html</id>
+        <link href="https://www.timestacked.com/top-tools-for-students.html"/>
+        <id>https://www.timestacked.com/top-tools-for-students.html</id>
         <media:content url="https://www.timestacked.com/media/posts/10/pexels-olly-3767411.jpg" medium="image" />
             <category term="university"/>
             <category term="student"/>
