@@ -3,12 +3,34 @@
     <title>TimeStacked</title>
     <link href="https://www.timestacked.com/feed.xml" rel="self" />
     <link href="https://www.timestacked.com" />
-    <updated>2025-08-02T23:09:50+02:00</updated>
+    <updated>2025-08-02T23:17:30+02:00</updated>
     <author>
         <name>Alex Deighton</name>
     </author>
     <id>https://www.timestacked.com</id>
 
+    <entry>
+        <title>Start Here: The Best Tools to Save Time, Make Money, and Do Better Work</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/start-here.html"/>
+        <id>https://www.timestacked.com/start-here.html</id>
+            <category term="start-here"/>
+
+        <updated>2025-08-02T23:17:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to TimeStacked — the place to find high-ROI tools that help you do better work in less time. Core Tools Everyone Should Try - Notion – Organize your brain and plans - Toggl – Track your time and stay focused - Canva – Make stunning&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome to <strong>TimeStacked</strong> — the place to find high-ROI tools that help you do better work in less time.<br><br><br><strong>Core Tools Everyone Should Try</strong><br><br>- <strong>Notion</strong> – Organize your brain and plans<br>- <strong>Toggl</strong> – Track your time and stay focused<br>- <strong>Canva</strong> – Make stunning designs without being a designer<br>- <strong>Clockify </strong>– Stay accountable and bill more hours</p>
+<p class="msg msg--success">Want more toolkits?  <br>👉 <a href="https://www.timestacked.com/top-tools.html">Explore our Top Tools</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Top Tools to Launch and Grow Your Side Hustle</title>
         <author>
@@ -278,38 +300,6 @@
 <p data-start="2778" data-end="2816">5. <strong data-start="2786" data-end="2797">ChatGPT</strong> – Idea Generator</p>
 <p>Use it for titles, scripts, hook lines, or video ideas. Huge time-saver when you’re stuck.<br><br><strong data-start="2917" data-end="2931"><br>Bonus Tip:</strong> Use ChatGPT to turn each video into 3 Shorts scripts to triple your content output.</p>
 <p class="msg msg--success">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="file:///C:\Users\symen\OneDrive\Documenten\Publii\sites\timestacked\preview/top-tools.html"> </a><a href="https://www.timestacked.com/top-tools.html">Browse Top Tools</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Top 5 Tools for Students to Study Smarter (Not Harder)</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/top-tools-for-students.html"/>
-        <id>https://www.timestacked.com/top-tools-for-students.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/10/pexels-olly-3767411.jpg" medium="image" />
-            <category term="university"/>
-            <category term="student"/>
-            <category term="school"/>
-            <category term="college"/>
-
-        <updated>2025-08-02T15:57:49+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/10/pexels-olly-3767411.jpg" alt="" />
-                    School is hard. These tools make it easier, faster, and more productive. 1. Notion – All-in-One Notes &amp; Planner Organize class notes, assignment checklists, and deadlines in one place. 2. Anki – Smart Flashcards Use spaced repetition to master any subject fast. 3. Grammarly –&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/10/pexels-olly-3767411.jpg" class="type:primaryImage" alt="" /></p>
-                <p>School is hard. These tools make it <strong>easier</strong>, <strong>faster</strong>, and <strong>more productive</strong>.<br><br><br>1. <strong>Notion </strong>– All-in-One Notes &amp; Planner  <br>Organize class notes, assignment checklists, and deadlines in one place.<br><br>2. <strong>Anki </strong>– Smart Flashcards  <br>Use spaced repetition to master any subject fast.<br><br>3. <strong>Grammarly </strong>– Writing Assistant  <br>Catch grammar mistakes and polish your papers before submission.<br><br>4. <strong>Pomofocus</strong> – Focus Timer  <br>Use the Pomodoro technique to crush study blocks without burnout.<br><br>5. <strong>Canva </strong>– Beautiful Slides &amp; Projects  <br>Create impressive presentations and visuals with no design skills.<br><strong><br><br>Bonus Tip</strong>: Set weekly learning goals and block distractions with browser blockers like ColdTurkey or Freedom.</p>
-<header class="hero__content">
-<div class="wrapper">
-<p class="msg msg--highlight  msg--success">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="https://www.timestacked.com/top-tools.html"> Browse Top Tools</a></p>
-</div>
-</header>
             ]]>
         </content>
     </entry>

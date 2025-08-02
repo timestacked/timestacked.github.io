@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.timestacked.com/start-here.html",
+            "url": "https://www.timestacked.com/start-here.html",
+            "title": "Start Here: The Best Tools to Save Time, Make Money, and Do Better Work",
+            "summary": "Welcome to TimeStacked — the place to find high-ROI tools that help you do better work in less time. Core Tools Everyone Should Try - Notion – Organize your brain and plans - Toggl – Track your time and stay focused - Canva – Make stunning&hellip;",
+            "content_html": "<p>Welcome to <strong>TimeStacked</strong> — the place to find high-ROI tools that help you do better work in less time.<br><br><br><strong>Core Tools Everyone Should Try</strong><br><br>- <strong>Notion</strong> – Organize your brain and plans<br>- <strong>Toggl</strong> – Track your time and stay focused<br>- <strong>Canva</strong> – Make stunning designs without being a designer<br>- <strong>Clockify </strong>– Stay accountable and bill more hours</p>\n<p class=\"msg msg--success\">Want more toolkits?  <br>👉 <a href=\"https://www.timestacked.com/top-tools.html\">Explore our Top Tools</a></p>",
+            "author": {
+                "name": "Alex Deighton"
+            },
+            "tags": [
+                   "start-here"
+            ],
+            "date_published": "2025-08-02T23:17:30+02:00",
+            "date_modified": "2025-08-02T23:17:30+02:00"
+        },
+        {
             "id": "https://www.timestacked.com/side-hustle-essentials.html",
             "url": "https://www.timestacked.com/side-hustle-essentials.html",
             "title": "Top Tools to Launch and Grow Your Side Hustle",
@@ -153,25 +168,6 @@
             ],
             "date_published": "2025-08-02T17:52:31+02:00",
             "date_modified": "2025-08-02T23:02:33+02:00"
-        },
-        {
-            "id": "https://www.timestacked.com/top-tools-for-students.html",
-            "url": "https://www.timestacked.com/top-tools-for-students.html",
-            "title": "Top 5 Tools for Students to Study Smarter (Not Harder)",
-            "summary": "School is hard. These tools make it easier, faster, and more productive. 1. Notion – All-in-One Notes &amp; Planner Organize class notes, assignment checklists, and deadlines in one place. 2. Anki – Smart Flashcards Use spaced repetition to master any subject fast. 3. Grammarly –&hellip;",
-            "content_html": "<p>School is hard. These tools make it <strong>easier</strong>, <strong>faster</strong>, and <strong>more productive</strong>.<br><br><br>1. <strong>Notion </strong>– All-in-One Notes &amp; Planner  <br>Organize class notes, assignment checklists, and deadlines in one place.<br><br>2. <strong>Anki </strong>– Smart Flashcards  <br>Use spaced repetition to master any subject fast.<br><br>3. <strong>Grammarly </strong>– Writing Assistant  <br>Catch grammar mistakes and polish your papers before submission.<br><br>4. <strong>Pomofocus</strong> – Focus Timer  <br>Use the Pomodoro technique to crush study blocks without burnout.<br><br>5. <strong>Canva </strong>– Beautiful Slides &amp; Projects  <br>Create impressive presentations and visuals with no design skills.<br><strong><br><br>Bonus Tip</strong>: Set weekly learning goals and block distractions with browser blockers like ColdTurkey or Freedom.</p>\n<header class=\"hero__content\">\n<div class=\"wrapper\">\n<p class=\"msg msg--highlight  msg--success\">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href=\"https://www.timestacked.com/top-tools.html\"> Browse Top Tools</a></p>\n</div>\n</header>",
-            "image": "https://www.timestacked.com/media/posts/10/pexels-olly-3767411.jpg",
-            "author": {
-                "name": "Alex Deighton"
-            },
-            "tags": [
-                   "university",
-                   "student",
-                   "school",
-                   "college"
-            ],
-            "date_published": "2025-08-02T15:57:49+02:00",
-            "date_modified": "2025-08-02T23:01:52+02:00"
         }
     ]
 }
