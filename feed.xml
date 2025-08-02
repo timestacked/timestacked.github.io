@@ -3,31 +3,77 @@
     <title>TimeStacked</title>
     <link href="https://www.timestacked.com/feed.xml" rel="self" />
     <link href="https://www.timestacked.com" />
-    <updated>2025-08-02T23:29:28+02:00</updated>
+    <updated>2025-08-03T00:48:31+02:00</updated>
     <author>
         <name>Alex Deighton</name>
     </author>
     <id>https://www.timestacked.com</id>
 
     <entry>
-        <title>Start Here: The Best Tools to Save Time, Make Money, and Do Better Work</title>
+        <title>3 Tech Stacks That Run Entire Freelance Businesses</title>
         <author>
             <name>Alex Deighton</name>
         </author>
-        <link href="https://www.timestacked.com/start-here.html"/>
-        <id>https://www.timestacked.com/start-here.html</id>
-            <category term="start-here"/>
+        <link href="https://www.timestacked.com/3-tech-stacks-that-run-entire-freelance-businesses.html"/>
+        <id>https://www.timestacked.com/3-tech-stacks-that-run-entire-freelance-businesses.html</id>
+        <media:content url="https://www.timestacked.com/media/posts/24/david-schultz-SrewPUfo2c0-unsplash.jpg" medium="image" />
+            <category term="tools"/>
+            <category term="Workflow Tips"/>
+            <category term="Tech Stack"/>
+            <category term="Freelancing"/>
 
-        <updated>2025-08-02T23:17:30+02:00</updated>
+        <updated>2025-08-03T00:25:34+02:00</updated>
             <summary>
                 <![CDATA[
-                    Welcome to TimeStacked — the place to find high-ROI tools that help you do better work in less time. Core Tools Everyone Should Try - Notion – Organize your brain and plans - Toggl – Track your time and stay focused - Canva – Make stunning&hellip;
+                        <img src="https://www.timestacked.com/media/posts/24/david-schultz-SrewPUfo2c0-unsplash.jpg" alt="" />
+                    You don’t need a huge team or budget to run a business. Just the right tools, stacked well. Here are 3 time-tested freelance setups: Stack 1: Creative Freelancer - Notion → project and client dashboard - Canva Pro → quick graphics - PayPal or Wise&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Welcome to <strong>TimeStacked</strong> — the place to find high-ROI tools that help you do better work in less time.<br><br><br><strong>Core Tools Everyone Should Try</strong><br><br>- <strong>Notion</strong> – Organize your brain and plans<br>- <strong>Toggl</strong> – Track your time and stay focused<br>- <strong>Canva</strong> – Make stunning designs without being a designer<br>- <strong>Clockify </strong>– Stay accountable and bill more hours</p>
-<p class="msg msg--success">Want more toolkits?  <br>👉 <a href="https://www.timestacked.com/top-tools.html">Explore our Top Tools</a></p>
+                    <p><img src="https://www.timestacked.com/media/posts/24/david-schultz-SrewPUfo2c0-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>You don’t need a huge team or budget to run a business. Just the right tools, stacked well.<br><br>Here are 3 time-tested freelance setups:<br><br><br><strong>Stack 1: Creative Freelancer  </strong><br>- Notion → project and client dashboard  <br>- Canva Pro → quick graphics  <br>- PayPal or Wise → get paid globally  <br><br><br><strong>Stack 2: Consultant  </strong><br>- Calendly → booking calls  <br>- Zoom → meetings  <br>- Bonsai → contracts + invoicing  <br><br><br><strong>Stack 3: Productized Service  </strong><br>- Tally.so → client onboarding form  <br>- Airtable → track delivery  <br>- Stripe → subscriptions/payments  <br><br><br><strong>Pick one, customize, and go. Don’t overthink tech — focus on delivering value.</strong></p>
+<hr>
+<p><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Why Your Time Tracking Tools Fail (and What to Use Instead)</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/why-your-time-tracking-tools-fail.html"/>
+        <id>https://www.timestacked.com/why-your-time-tracking-tools-fail.html</id>
+        <media:content url="https://www.timestacked.com/media/posts/23/heather-zabriskie-yBzrPGLjMQw-unsplash.jpg" medium="image" />
+            <category term="Workflow Tips"/>
+            <category term="Time Tracking"/>
+            <category term="Productivity"/>
+            <category term="Freelancing"/>
+
+        <updated>2025-08-03T00:23:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.timestacked.com/media/posts/23/heather-zabriskie-yBzrPGLjMQw-unsplash.jpg" alt="" />
+                    You're not broken. Your tool is. Many freelancers and solopreneurs blame themselves when they fail to stick to a time tracking habit. But here's the truth: most tools are built for teams, not individuals. Common Issues: Better Alternatives: Pro Tip: Block 5 minutes every Friday&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.timestacked.com/media/posts/23/heather-zabriskie-yBzrPGLjMQw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p><strong>You're not broken. Your tool is.</strong><br><br>Many freelancers and solopreneurs blame themselves when they fail to stick to a time tracking habit. But here's the truth: <em>most tools are built for teams, not individuals</em>.<br><br><br>Common Issues:</p>
+<ul>
+<li>Too many manual steps to log time</li>
+<li>Ugly, cluttered interfaces</li>
+<li>No feedback loop or reward for consistency</li>
+</ul>
+<p>Better Alternatives:</p>
+<ul>
+<li><strong>Toggl Track</strong> – Clean UI and blazing fast tracking</li>
+<li><strong>RescueTime </strong>– Works automatically in the background</li>
+<li><strong style="font-family: var(--editor-font-family); font-size: inherit;">TimeCamp</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> – Tracks billable hours + integrates with Trello/Asana</span></li>
+</ul>
+<p><br><strong>Pro Tip</strong>: Block 5 minutes every Friday to review your weekly dashboard. Small tweaks = massive gains.<br><br></p>
 <hr>
 <p><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
             ]]>
@@ -283,41 +329,6 @@
 <p data-start="3962" data-end="4052">Designs live in one space. Clients or teammates can comment directly. Less back-and-forth.<br><br><br><strong data-start="4062" data-end="4076">Bonus Tip:</strong> Create a team handbook in Notion and link to SOPs, tools, and onboarding docs.</p>
 <p class="msg msg--success" data-start="3962" data-end="4052">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="https://www.timestacked.com/top-tools.html"> Browse Top Tools</a></p>
 <p data-start="3962" data-end="4052"><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Top 5 Tools for YouTubers to Grow a Channel Faster</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/top-tools-for-youtubers.html"/>
-        <id>https://www.timestacked.com/top-tools-for-youtubers.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/11/pexels-freestocks-34407.jpg" medium="image" />
-            <category term="Content Creators"/>
-
-        <updated>2025-08-02T17:52:31+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/11/pexels-freestocks-34407.jpg" alt="" />
-                    Want more subscribers without spending 8 hours editing each video? These tools help creators script, record, optimize, and grow faster than ever. 1. Descript – Edit Audio/Video by Text Instantly cut filler words, silence, and mistakes by editing the transcript. Game-changer. 2. TubeBuddy – Channel&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/11/pexels-freestocks-34407.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Want more subscribers without spending 8 hours editing each video? <br>These tools help creators script, record, optimize, and <strong>grow faster than ever</strong>.<br><br><br>1. <strong data-start="2221" data-end="2233">Descript</strong> – Edit Audio/Video by Text</p>
-<p>Instantly cut filler words, silence, and mistakes by editing the transcript. Game-changer.</p>
-<p data-start="2355" data-end="2405">2. <strong data-start="2363" data-end="2376">TubeBuddy</strong> – Channel Growth Analytics</p>
-<p>Optimize your titles, tags, and thumbnails. Research competition and get A/B testing insights.</p>
-<p data-start="2502" data-end="2549">3. <strong data-start="2510" data-end="2520">CapCut</strong> – Free, Fast Video Editing</p>
-<p>Add transitions, effects, and auto-captions in minutes. No Premiere skills needed.</p>
-<p data-start="2634" data-end="2680">4. <strong data-start="2642" data-end="2655">Canva Pro</strong> – Thumbnails &amp; Banners</p>
-<p>Create scroll-stopping thumbnails that boost CTR. Also useful for channel art and social posts.</p>
-<p data-start="2778" data-end="2816">5. <strong data-start="2786" data-end="2797">ChatGPT</strong> – Idea Generator</p>
-<p>Use it for titles, scripts, hook lines, or video ideas. Huge time-saver when you’re stuck.<br><br><strong data-start="2917" data-end="2931"><br>Bonus Tip:</strong> Use ChatGPT to turn each video into 3 Shorts scripts to triple your content output.</p>
-<p class="msg msg--success">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="file:///C:\Users\symen\OneDrive\Documenten\Publii\sites\timestacked\preview/top-tools.html"> </a><a href="https://www.timestacked.com/top-tools.html">Browse Top Tools</a></p>
-<p><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
             ]]>
         </content>
     </entry>
