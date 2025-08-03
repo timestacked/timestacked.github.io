@@ -23,10 +23,17 @@
                    "Workflow Tips",
                    "Tools",
                    "Tech Stack",
-                   "Freelancing"
+                   "Subscription",
+                   "Notion",
+                   "Freelancing",
+                   "Creator Tools",
+                   "Consultant",
+                   "Client Onboarding",
+                   "Automation",
+                   "Airtable"
             ],
             "date_published": "2025-08-03T00:25:34+02:00",
-            "date_modified": "2025-08-03T00:33:57+02:00"
+            "date_modified": "2025-08-03T11:49:43+02:00"
         },
         {
             "id": "https://www.timestacked.com/why-your-time-tracking-tools-fail.html",
@@ -40,12 +47,16 @@
             },
             "tags": [
                    "Workflow Tips",
+                   "Toggl",
+                   "TimeCamp",
                    "Time Tracking",
+                   "Solo Work",
+                   "RescueTime",
                    "Productivity",
                    "Freelancing"
             ],
             "date_published": "2025-08-03T00:23:39+02:00",
-            "date_modified": "2025-08-03T00:48:31+02:00"
+            "date_modified": "2025-08-03T11:50:49+02:00"
         },
         {
             "id": "https://www.timestacked.com/side-hustle-essentials.html",
@@ -58,10 +69,18 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Side Hustle"
+                   "Tally",
+                   "Side Hustle",
+                   "Launch Tools",
+                   "Landing Pages",
+                   "Gumroad",
+                   "Email Marketing",
+                   "Digital Products",
+                   "Creators",
+                   "Canva"
             ],
             "date_published": "2025-08-02T18:33:17+02:00",
-            "date_modified": "2025-08-02T23:29:04+02:00"
+            "date_modified": "2025-08-03T11:52:30+02:00"
         },
         {
             "id": "https://www.timestacked.com/freelancers-and-consultants.html",
@@ -74,11 +93,17 @@
                 "name": "Alex Deighton"
             },
             "tags": [
+                   "Project",
+                   "Payments",
+                   "Notion",
                    "Freelancer",
-                   "Consultant"
+                   "Consultant",
+                   "Clockify",
+                   "Client Tools",
+                   "Bonsai"
             ],
             "date_published": "2025-08-02T18:30:53+02:00",
-            "date_modified": "2025-08-02T23:28:51+02:00"
+            "date_modified": "2025-08-03T11:53:34+02:00"
         },
         {
             "id": "https://www.timestacked.com/ai-powered-creators.html",
@@ -91,10 +116,18 @@
                 "name": "Alex Deighton"
             },
             "tags": [
+                   "Opus Clip",
+                   "Midjourney",
+                   "Jasper",
+                   "Descript",
+                   "Creators",
+                   "Content Creators",
+                   "ChatGPT",
+                   "AI Tools",
                    "AI"
             ],
             "date_published": "2025-08-02T18:28:48+02:00",
-            "date_modified": "2025-08-02T23:28:42+02:00"
+            "date_modified": "2025-08-03T11:39:53+02:00"
         },
         {
             "id": "https://www.timestacked.com/productivity-boosters.html",
@@ -107,10 +140,17 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Productivity"
+                   "Todoist",
+                   "Productivity Tools",
+                   "Productivity",
+                   "Notion",
+                   "Focus",
+                   "Daily Planning",
+                   "Cold Turkey",
+                   "Brain.fm"
             ],
             "date_published": "2025-08-02T18:25:49+02:00",
-            "date_modified": "2025-08-02T23:28:32+02:00"
+            "date_modified": "2025-08-03T11:41:31+02:00"
         },
         {
             "id": "https://www.timestacked.com/top-tools-for-developers.html",
@@ -123,10 +163,16 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Developers"
+                   "VS Code",
+                   "Productivity",
+                   "GitHub",
+                   "Developers",
+                   "Developer Tools",
+                   "Automation",
+                   "API Testing"
             ],
             "date_published": "2025-08-02T18:22:57+02:00",
-            "date_modified": "2025-08-02T23:28:23+02:00"
+            "date_modified": "2025-08-03T11:42:43+02:00"
         },
         {
             "id": "https://www.timestacked.com/top-tools-for-designers.html",
@@ -139,10 +185,17 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Designers"
+                   "Figma",
+                   "Designers",
+                   "Design Tools",
+                   "Creative Workflow",
+                   "Color Palettes",
+                   "Client Work",
+                   "Canva",
+                   "Adobe"
             ],
             "date_published": "2025-08-02T18:20:37+02:00",
-            "date_modified": "2025-08-02T23:28:13+02:00"
+            "date_modified": "2025-08-03T11:43:50+02:00"
         },
         {
             "id": "https://www.timestacked.com/top-tools-for-coaches.html",
@@ -155,10 +208,17 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Coaching"
+                   "Video Calls",
+                   "Scheduling",
+                   "Payments",
+                   "Notion",
+                   "Descript",
+                   "Coaching Tools",
+                   "Coaching",
+                   "Client Management"
             ],
             "date_published": "2025-08-02T18:17:09+02:00",
-            "date_modified": "2025-08-02T23:27:59+02:00"
+            "date_modified": "2025-08-03T11:44:53+02:00"
         },
         {
             "id": "https://www.timestacked.com/top-tools-for-remote-teams.html",
@@ -171,10 +231,17 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Remote Work"
+                   "Team Tools",
+                   "Remote Work",
+                   "Project",
+                   "Productivity",
+                   "Management",
+                   "Design",
+                   "Collaboration",
+                   "Async Communication"
             ],
             "date_published": "2025-08-02T17:57:17+02:00",
-            "date_modified": "2025-08-02T23:27:40+02:00"
+            "date_modified": "2025-08-03T11:46:12+02:00"
         }
     ]
 }
