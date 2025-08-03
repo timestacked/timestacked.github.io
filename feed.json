@@ -20,20 +20,12 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Workflow Tips",
-                   "Tools",
-                   "Tech Stack",
-                   "Subscription",
                    "Notion",
-                   "Freelancing",
-                   "Creator Tools",
-                   "Consultant",
-                   "Client Onboarding",
-                   "Automation",
-                   "Airtable"
+                   "Freelancers",
+                   "Automation"
             ],
             "date_published": "2025-08-03T00:25:34+02:00",
-            "date_modified": "2025-08-03T11:49:43+02:00"
+            "date_modified": "2025-08-03T12:12:13+02:00"
         },
         {
             "id": "https://www.timestacked.com/why-your-time-tracking-tools-fail.html",
@@ -41,22 +33,16 @@
             "title": "Why Your Time Tracking Tools Fail (and What to Use Instead)",
             "summary": "You're not broken. Your tool is. Many freelancers and solopreneurs blame themselves when they fail to stick to a time tracking habit. But here's the truth: most tools are built for teams, not individuals. Common Issues: Better Alternatives: Pro Tip: Block 5 minutes every Friday&hellip;",
             "content_html": "<p><strong>You're not broken. Your tool is.</strong><br><br>Many freelancers and solopreneurs blame themselves when they fail to stick to a time tracking habit. But here's the truth: <em>most tools are built for teams, not individuals</em>.<br><br><br>Common Issues:</p>\n<ul>\n<li>Too many manual steps to log time</li>\n<li>Ugly, cluttered interfaces</li>\n<li>No feedback loop or reward for consistency</li>\n</ul>\n<p>Better Alternatives:</p>\n<ul>\n<li><strong>Toggl Track</strong> – Clean UI and blazing fast tracking</li>\n<li><strong>RescueTime </strong>– Works automatically in the background</li>\n<li><strong style=\"font-family: var(--editor-font-family); font-size: inherit;\">TimeCamp</strong><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"> – Tracks billable hours + integrates with Trello/Asana</span></li>\n</ul>\n<p><br><strong>Pro Tip</strong>: Block 5 minutes every Friday to review your weekly dashboard. Small tweaks = massive gains.<br><br></p>\n<hr>\n<p><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>",
-            "image": "https://www.timestacked.com/media/posts/23/heather-zabriskie-yBzrPGLjMQw-unsplash.jpg",
+            "image": "https://www.timestacked.com/media/posts/23/pexels-pixabay-48770.jpg",
             "author": {
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Workflow Tips",
-                   "Toggl",
-                   "TimeCamp",
                    "Time Tracking",
-                   "Solo Work",
-                   "RescueTime",
-                   "Productivity",
-                   "Freelancing"
+                   "Productivity"
             ],
             "date_published": "2025-08-03T00:23:39+02:00",
-            "date_modified": "2025-08-03T11:50:49+02:00"
+            "date_modified": "2025-08-03T12:22:33+02:00"
         },
         {
             "id": "https://www.timestacked.com/side-hustle-essentials.html",
@@ -69,13 +55,7 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Tally",
                    "Side Hustle",
-                   "Launch Tools",
-                   "Landing Pages",
-                   "Gumroad",
-                   "Email Marketing",
-                   "Digital Products",
                    "Creators",
                    "Canva"
             ],
@@ -93,17 +73,11 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Project",
-                   "Payments",
                    "Notion",
-                   "Freelancer",
-                   "Consultant",
-                   "Clockify",
-                   "Client Tools",
-                   "Bonsai"
+                   "Freelancers"
             ],
             "date_published": "2025-08-02T18:30:53+02:00",
-            "date_modified": "2025-08-03T11:53:34+02:00"
+            "date_modified": "2025-08-03T12:13:22+02:00"
         },
         {
             "id": "https://www.timestacked.com/ai-powered-creators.html",
@@ -116,18 +90,13 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Opus Clip",
-                   "Midjourney",
-                   "Jasper",
                    "Descript",
                    "Creators",
-                   "Content Creators",
                    "ChatGPT",
-                   "AI Tools",
-                   "AI"
+                   "AI Tools"
             ],
             "date_published": "2025-08-02T18:28:48+02:00",
-            "date_modified": "2025-08-03T11:39:53+02:00"
+            "date_modified": "2025-08-03T11:55:54+02:00"
         },
         {
             "id": "https://www.timestacked.com/productivity-boosters.html",
@@ -140,17 +109,12 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Todoist",
-                   "Productivity Tools",
                    "Productivity",
                    "Notion",
-                   "Focus",
-                   "Daily Planning",
-                   "Cold Turkey",
-                   "Brain.fm"
+                   "Freelancers"
             ],
             "date_published": "2025-08-02T18:25:49+02:00",
-            "date_modified": "2025-08-03T11:41:31+02:00"
+            "date_modified": "2025-08-03T12:09:11+02:00"
         },
         {
             "id": "https://www.timestacked.com/top-tools-for-developers.html",
@@ -163,13 +127,9 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "VS Code",
                    "Productivity",
-                   "GitHub",
                    "Developers",
-                   "Developer Tools",
-                   "Automation",
-                   "API Testing"
+                   "Automation"
             ],
             "date_published": "2025-08-02T18:22:57+02:00",
             "date_modified": "2025-08-03T11:42:43+02:00"
@@ -185,14 +145,8 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Figma",
                    "Designers",
-                   "Design Tools",
-                   "Creative Workflow",
-                   "Color Palettes",
-                   "Client Work",
-                   "Canva",
-                   "Adobe"
+                   "Canva"
             ],
             "date_published": "2025-08-02T18:20:37+02:00",
             "date_modified": "2025-08-03T11:43:50+02:00"
@@ -208,13 +162,9 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Video Calls",
-                   "Scheduling",
-                   "Payments",
                    "Notion",
                    "Descript",
-                   "Coaching Tools",
-                   "Coaching",
+                   "Coaches",
                    "Client Management"
             ],
             "date_published": "2025-08-02T18:17:09+02:00",
@@ -231,14 +181,8 @@
                 "name": "Alex Deighton"
             },
             "tags": [
-                   "Team Tools",
                    "Remote Work",
-                   "Project",
-                   "Productivity",
-                   "Management",
-                   "Design",
-                   "Collaboration",
-                   "Async Communication"
+                   "Productivity"
             ],
             "date_published": "2025-08-02T17:57:17+02:00",
             "date_modified": "2025-08-03T11:46:12+02:00"

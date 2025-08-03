@@ -3,7 +3,7 @@
     <title>TimeStacked</title>
     <link href="https://www.timestacked.com/feed.xml" rel="self" />
     <link href="https://www.timestacked.com" />
-    <updated>2025-08-03T11:53:34+02:00</updated>
+    <updated>2025-08-03T12:22:33+02:00</updated>
     <author>
         <name>Alex Deighton</name>
     </author>
@@ -17,17 +17,9 @@
         <link href="https://www.timestacked.com/3-tech-stacks-that-run-entire-freelance-businesses.html"/>
         <id>https://www.timestacked.com/3-tech-stacks-that-run-entire-freelance-businesses.html</id>
         <media:content url="https://www.timestacked.com/media/posts/24/david-schultz-SrewPUfo2c0-unsplash.jpg" medium="image" />
-            <category term="Workflow Tips"/>
-            <category term="Tools"/>
-            <category term="Tech Stack"/>
-            <category term="Subscription"/>
             <category term="Notion"/>
-            <category term="Freelancing"/>
-            <category term="Creator Tools"/>
-            <category term="Consultant"/>
-            <category term="Client Onboarding"/>
+            <category term="Freelancers"/>
             <category term="Automation"/>
-            <category term="Airtable"/>
 
         <updated>2025-08-03T00:25:34+02:00</updated>
             <summary>
@@ -52,26 +44,20 @@
         </author>
         <link href="https://www.timestacked.com/why-your-time-tracking-tools-fail.html"/>
         <id>https://www.timestacked.com/why-your-time-tracking-tools-fail.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/23/heather-zabriskie-yBzrPGLjMQw-unsplash.jpg" medium="image" />
-            <category term="Workflow Tips"/>
-            <category term="Toggl"/>
-            <category term="TimeCamp"/>
+        <media:content url="https://www.timestacked.com/media/posts/23/pexels-pixabay-48770.jpg" medium="image" />
             <category term="Time Tracking"/>
-            <category term="Solo Work"/>
-            <category term="RescueTime"/>
             <category term="Productivity"/>
-            <category term="Freelancing"/>
 
         <updated>2025-08-03T00:23:39+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/23/heather-zabriskie-yBzrPGLjMQw-unsplash.jpg" alt="" />
+                        <img src="https://www.timestacked.com/media/posts/23/pexels-pixabay-48770.jpg" alt="" />
                     You're not broken. Your tool is. Many freelancers and solopreneurs blame themselves when they fail to stick to a time tracking habit. But here's the truth: most tools are built for teams, not individuals. Common Issues: Better Alternatives: Pro Tip: Block 5 minutes every Friday&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/23/heather-zabriskie-yBzrPGLjMQw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.timestacked.com/media/posts/23/pexels-pixabay-48770.jpg" class="type:primaryImage" alt="" /></p>
                 <p><strong>You're not broken. Your tool is.</strong><br><br>Many freelancers and solopreneurs blame themselves when they fail to stick to a time tracking habit. But here's the truth: <em>most tools are built for teams, not individuals</em>.<br><br><br>Common Issues:</p>
 <ul>
 <li>Too many manual steps to log time</li>
@@ -98,13 +84,7 @@
         <link href="https://www.timestacked.com/side-hustle-essentials.html"/>
         <id>https://www.timestacked.com/side-hustle-essentials.html</id>
         <media:content url="https://www.timestacked.com/media/posts/19/garrhet-sampson-DSQda5dqWPw-unsplash.jpg" medium="image" />
-            <category term="Tally"/>
             <category term="Side Hustle"/>
-            <category term="Launch Tools"/>
-            <category term="Landing Pages"/>
-            <category term="Gumroad"/>
-            <category term="Email Marketing"/>
-            <category term="Digital Products"/>
             <category term="Creators"/>
             <category term="Canva"/>
 
@@ -137,14 +117,8 @@
         <link href="https://www.timestacked.com/freelancers-and-consultants.html"/>
         <id>https://www.timestacked.com/freelancers-and-consultants.html</id>
         <media:content url="https://www.timestacked.com/media/posts/18/keenan-beasley-7g5gW-j62E8-unsplash.jpg" medium="image" />
-            <category term="Project"/>
-            <category term="Payments"/>
             <category term="Notion"/>
-            <category term="Freelancer"/>
-            <category term="Consultant"/>
-            <category term="Clockify"/>
-            <category term="Client Tools"/>
-            <category term="Bonsai"/>
+            <category term="Freelancers"/>
 
         <updated>2025-08-02T18:30:53+02:00</updated>
             <summary>
@@ -175,15 +149,10 @@
         <link href="https://www.timestacked.com/ai-powered-creators.html"/>
         <id>https://www.timestacked.com/ai-powered-creators.html</id>
         <media:content url="https://www.timestacked.com/media/posts/17/zulfugar-karimov-wl67wKt8hNI-unsplash.jpg" medium="image" />
-            <category term="Opus Clip"/>
-            <category term="Midjourney"/>
-            <category term="Jasper"/>
             <category term="Descript"/>
             <category term="Creators"/>
-            <category term="Content Creators"/>
             <category term="ChatGPT"/>
             <category term="AI Tools"/>
-            <category term="AI"/>
 
         <updated>2025-08-02T18:28:48+02:00</updated>
             <summary>
@@ -214,14 +183,9 @@
         <link href="https://www.timestacked.com/productivity-boosters.html"/>
         <id>https://www.timestacked.com/productivity-boosters.html</id>
         <media:content url="https://www.timestacked.com/media/posts/16/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg" medium="image" />
-            <category term="Todoist"/>
-            <category term="Productivity Tools"/>
             <category term="Productivity"/>
             <category term="Notion"/>
-            <category term="Focus"/>
-            <category term="Daily Planning"/>
-            <category term="Cold Turkey"/>
-            <category term="Brain.fm"/>
+            <category term="Freelancers"/>
 
         <updated>2025-08-02T18:25:49+02:00</updated>
             <summary>
@@ -252,13 +216,9 @@
         <link href="https://www.timestacked.com/top-tools-for-developers.html"/>
         <id>https://www.timestacked.com/top-tools-for-developers.html</id>
         <media:content url="https://www.timestacked.com/media/posts/15/pexels-goumbik-574071.jpg" medium="image" />
-            <category term="VS Code"/>
             <category term="Productivity"/>
-            <category term="GitHub"/>
             <category term="Developers"/>
-            <category term="Developer Tools"/>
             <category term="Automation"/>
-            <category term="API Testing"/>
 
         <updated>2025-08-02T18:22:57+02:00</updated>
             <summary>
@@ -289,14 +249,8 @@
         <link href="https://www.timestacked.com/top-tools-for-designers.html"/>
         <id>https://www.timestacked.com/top-tools-for-designers.html</id>
         <media:content url="https://www.timestacked.com/media/posts/14/faizur-rehman-pHPzdEHN6Os-unsplash.jpg" medium="image" />
-            <category term="Figma"/>
             <category term="Designers"/>
-            <category term="Design Tools"/>
-            <category term="Creative Workflow"/>
-            <category term="Color Palettes"/>
-            <category term="Client Work"/>
             <category term="Canva"/>
-            <category term="Adobe"/>
 
         <updated>2025-08-02T18:20:37+02:00</updated>
             <summary>
@@ -327,13 +281,9 @@
         <link href="https://www.timestacked.com/top-tools-for-coaches.html"/>
         <id>https://www.timestacked.com/top-tools-for-coaches.html</id>
         <media:content url="https://www.timestacked.com/media/posts/13/jesse-orrico-mse1vdzZXjA-unsplash.jpg" medium="image" />
-            <category term="Video Calls"/>
-            <category term="Scheduling"/>
-            <category term="Payments"/>
             <category term="Notion"/>
             <category term="Descript"/>
-            <category term="Coaching Tools"/>
-            <category term="Coaching"/>
+            <category term="Coaches"/>
             <category term="Client Management"/>
 
         <updated>2025-08-02T18:17:09+02:00</updated>
@@ -365,14 +315,8 @@
         <link href="https://www.timestacked.com/top-tools-for-remote-teams.html"/>
         <id>https://www.timestacked.com/top-tools-for-remote-teams.html</id>
         <media:content url="https://www.timestacked.com/media/posts/12/pexels-mikael-blomkvist-6476258.jpg" medium="image" />
-            <category term="Team Tools"/>
             <category term="Remote Work"/>
-            <category term="Project"/>
             <category term="Productivity"/>
-            <category term="Management"/>
-            <category term="Design"/>
-            <category term="Collaboration"/>
-            <category term="Async Communication"/>
 
         <updated>2025-08-02T17:57:17+02:00</updated>
             <summary>
