@@ -3,12 +3,67 @@
     <title>TimeStacked</title>
     <link href="https://www.timestacked.com/feed.xml" rel="self" />
     <link href="https://www.timestacked.com" />
-    <updated>2025-08-03T12:22:33+02:00</updated>
+    <updated>2025-08-04T12:11:10+02:00</updated>
     <author>
         <name>Alex Deighton</name>
     </author>
     <id>https://www.timestacked.com</id>
 
+    <entry>
+        <title>The Time Audit: A Simple Weekly Ritual for Gaining 10+ Hours</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/the-time-audit-a-simple-weekly-ritual-for-gaining-10-hours.html"/>
+        <id>https://www.timestacked.com/the-time-audit-a-simple-weekly-ritual-for-gaining-10-hours.html</id>
+            <category term="Time Management"/>
+            <category term="Productivity"/>
+            <category term="Freelancers"/>
+
+        <updated>2025-08-04T12:03:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                    If you’ve ever felt like the week flew by and you got nothing meaningful done… you're not alone. Most people spend their time reactively, not intentionally. A time audit fixes that. Here’s the simple process I use every Sunday to reclaim 10+ hours each week.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-start="745" data-end="928">If you’ve ever felt like the week flew by and you got <em data-start="799" data-end="808">nothing</em> meaningful done… you're not alone. Most people spend their time reactively, not intentionally. A time audit fixes that.</p>
+<p data-start="930" data-end="1006">Here’s the simple process I use every Sunday to <strong>reclaim 10+ hours each week</strong>.<br><br></p>
+<h5 data-start="930" data-end="1006">Step 1: <strong>Look Back at the Week</strong></h5>
+<p data-start="1051" data-end="1121">Open your calendar, time tracking app, or even your notebook. Look at:</p>
+<ul data-start="1123" data-end="1243">
+<li data-start="1123" data-end="1154">
+<p data-start="1125" data-end="1154">Where your time actually went</p>
+</li>
+<li data-start="1123" data-end="1154">
+<p data-start="1125" data-end="1154">What work drained your energy</p>
+</li>
+<li data-start="1187" data-end="1243">
+<p data-start="1189" data-end="1243">What you did that <strong data-start="1207" data-end="1227">moved the needle</strong> vs. what didn’t</p>
+</li>
+</ul>
+<p data-start="1245" data-end="1273"><strong>Write down 3–5 time-wasters.</strong><br><br></p>
+<h5 data-start="1245" data-end="1273">Step 2: <strong>Identify Your “High-Leverage” Work</strong></h5>
+<p data-start="1331" data-end="1437">Next, highlight the top 2–3 activities that drove results—client wins, content produced, systems improved.</p>
+<p data-start="1439" data-end="1443">Ask: <em><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">If I only did these next week, would it move my work forward?<br><br></span></em></p>
+<h5 data-start="1439" data-end="1443">Step 3: <strong>Design Your Ideal Week</strong></h5>
+<p data-start="1553" data-end="1672">Now use your insights to block your upcoming week. Remove 1–2 things that drained you. Reprioritize time for deep work.</p>
+<p data-start="1674" data-end="1725">I personally use Notion and Cron calendar for this.</p>
+<h5 class="msg msg--success" data-start="1674" data-end="1725">Optional: Use a Template</h5>
+<hr>
+<p data-start="1765" data-end="1848">Need a structure? Here's a simple <a data-start="1799" data-end="1833" class="" rel="noopener" href="#">Time Audit Template in Notion</a> (Coming soon).</p>
+<p data-start="1855" data-end="1939">👉 Do this weekly. You’ll know where your time leaks—and what to double down on.</p>
+<hr data-start="1941" data-end="1944">
+<h5 data-start="1946" data-end="1974">You should also read:</h5>
+<ul data-start="1975" data-end="2041">
+<li data-start="1975" data-end="2041">
+<p data-start="1977" data-end="2041"><a href="https://www.timestacked.com/why-your-time-tracking-tools-fail.html">Why Your Time Tracking Tools Fail (and What to Use Instead)</a></p>
+</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>3 Tech Stacks That Run Entire Freelance Businesses</title>
         <author>
@@ -304,42 +359,6 @@
 <p class="msg msg--success" data-start="1131" data-end="1238">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="https://www.timestacked.com/top-tools.html"> Browse Top Tools</a></p>
 <hr>
 <p data-start="1131" data-end="1238"><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Top 5 Tools for Remote Teams to Collaborate Without Chaos</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/top-tools-for-remote-teams.html"/>
-        <id>https://www.timestacked.com/top-tools-for-remote-teams.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/12/pexels-mikael-blomkvist-6476258.jpg" medium="image" />
-            <category term="Remote Work"/>
-            <category term="Productivity"/>
-
-        <updated>2025-08-02T17:57:17+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/12/pexels-mikael-blomkvist-6476258.jpg" alt="" />
-                    Distributed teams lose time and clarity without the right stack. These tools keep everyone aligned, accountable, and async-ready. 1. Slack – Central Team Communication Organize discussions by channel. Keep team updates, files, and announcements in one place. 2. Loom – Async Video Updates Record your&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/12/pexels-mikael-blomkvist-6476258.jpg" class="type:primaryImage" alt="" /></p>
-                <p data-start="3254" data-end="3383">Distributed teams lose time and clarity without the right stack. <br>These tools keep everyone <strong>aligned</strong>, <strong>accountable</strong>, and <strong>async-ready</strong>.<br><br><br>1. <strong data-start="3417" data-end="3426">Slack</strong> – Central Team Communication</p>
-<p data-start="3458" data-end="3548">Organize discussions by channel. Keep team updates, files, and announcements in one place.</p>
-<p data-start="3550" data-end="3590">2. <strong data-start="3558" data-end="3566">Loom</strong> – Async Video Updates</p>
-<p data-start="3591" data-end="3675">Record your screen and voice to give context-rich updates without needing a meeting.</p>
-<p data-start="3677" data-end="3719">3. <strong data-start="3685" data-end="3696">ClickUp</strong> – Project Management</p>
-<p data-start="3720" data-end="3800">Assign tasks, set timelines, automate workflows — all in one. Simpler than Jira.</p>
-<p data-start="3802" data-end="3843">4. <strong data-start="3810" data-end="3818">Miro</strong> – Visual Collaboration</p>
-<p data-start="3844" data-end="3917">Whiteboard ideas, brainstorm as a team, or plan quarterly goals visually.</p>
-<p data-start="3919" data-end="3961">5. <strong data-start="3927" data-end="3936">Figma</strong> – Design Collaboration</p>
-<p data-start="3962" data-end="4052">Designs live in one space. Clients or teammates can comment directly. Less back-and-forth.<br><br><br><strong data-start="4062" data-end="4076">Bonus Tip:</strong> Create a team handbook in Notion and link to SOPs, tools, and onboarding docs.</p>
-<p class="msg msg--success" data-start="3962" data-end="4052">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="https://www.timestacked.com/top-tools.html"> Browse Top Tools</a></p>
-<p data-start="3962" data-end="4052"><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
             ]]>
         </content>
     </entry>
