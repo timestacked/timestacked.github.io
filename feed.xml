@@ -3,12 +3,178 @@
     <title>TimeStacked</title>
     <link href="https://www.timestacked.com/feed.xml" rel="self" />
     <link href="https://www.timestacked.com" />
-    <updated>2025-08-04T12:11:10+02:00</updated>
+    <updated>2025-08-04T12:39:56+02:00</updated>
     <author>
         <name>Alex Deighton</name>
     </author>
     <id>https://www.timestacked.com</id>
 
+    <entry>
+        <title>How to Build a One-Page Business (That Pays Monthly)</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/how-to-build-a-one-page-business-that-pays-monthly.html"/>
+        <id>https://www.timestacked.com/how-to-build-a-one-page-business-that-pays-monthly.html</id>
+            <category term="Freelancers"/>
+
+        <updated>2025-08-04T12:36:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Most business plans are bloated. The simplest model that works? A one-page product that people can buy — now. Here’s what you need: Launch with zero-code. Improve based on feedback. Once it sells, add automation (onboarding email, delivery system, upsells). You should also read: The&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Most business plans are bloated. The simplest model that works? A one-page product that people can buy — now.</p>
+<p>Here’s what you need:</p>
+<h5><strong>1. Product</strong></h5>
+<ul>
+<li><strong>What:</strong> Pick a clear result (e.g. “Notion setup for freelancers”)</li>
+<li><strong>Price:</strong> Keep it under $500 to start</li>
+</ul>
+<h5><strong>2. Page</strong></h5>
+<ul>
+<li><strong>Use Carrd or Notion:</strong> 1-page layout with offer, testimonials, FAQ</li>
+</ul>
+<h5><strong>3. Payment Option</strong></h5>
+<ul>
+<li><strong>Use Gumroad or Stripe:</strong> Collect payments easily</li>
+</ul>
+<p>Launch with zero-code. Improve based on feedback. Once it sells, add automation (onboarding email, delivery system, upsells).</p>
+<hr>
+<h5><strong>You should also read:</strong></h5>
+<ul>
+<li><a href="https://www.timestacked.com/the-99-tech-stack-that-replaces-a-2500month-team.html">The $99 Tech Stack That Replaces a $2,500/month Team</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How to Say “No” Without Burning Bridges (Client Scripts)</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/how-to-say-no-without-burning-bridges-client-scripts.html"/>
+        <id>https://www.timestacked.com/how-to-say-no-without-burning-bridges-client-scripts.html</id>
+            <category term="Freelancers"/>
+            <category term="Client Management"/>
+
+        <updated>2025-08-04T12:34:48+02:00</updated>
+            <summary>
+                <![CDATA[
+                    We all want to be helpful. But “yes” to everything means burnout fast. Boundaries = freedom. Here are 3 scripts to say no — without damaging relationships: “Thanks so much for thinking of me. I’m fully booked this month and want to give each client&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We all want to be helpful. But “yes” to everything means <strong>burnout</strong> fast. Boundaries = freedom.</p>
+<p>Here are 3 scripts to say no — without damaging relationships:</p>
+<h5><strong>1. Saying No to a New Project</strong></h5>
+<p>“Thanks so much for thinking of me. I’m fully booked this month and want to give each client my best. If anything changes, I’ll let you know!”</p>
+<h5><strong>2. Saying No to a Last-Minute Request</strong></h5>
+<p>“Hey! I’d love to help, but this falls outside of the current scope and turnaround. I can prioritize it next week for [X fee], if that works.”</p>
+<h5><strong>3. Saying No to the Wrong Fit</strong></h5>
+<p>“Appreciate you reaching out. Based on your goals, I might not be the best fit — but here are 2 people I’d recommend.”</p>
+<p>Use a Notion page to store &amp; reuse scripts like these. Saves brain cycles and keeps tone professional.</p>
+<hr>
+<h5><strong>You should also read:</strong></h5>
+<ul>
+<li><a href="https://www.timestacked.com/the-time-audit-a-simple-weekly-ritual-for-gaining-10-hours.html">The Time Audit: A Simple Weekly Ritual for Gaining 10+ Hours</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The $99 Tech Stack That Replaces a $2,500/month Team</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/the-99-tech-stack-that-replaces-a-2500month-team.html"/>
+        <id>https://www.timestacked.com/the-99-tech-stack-that-replaces-a-2500month-team.html</id>
+            <category term="Notion"/>
+            <category term="Freelancers"/>
+
+        <updated>2025-08-04T12:31:05+02:00</updated>
+            <summary>
+                <![CDATA[
+                    You don’t need a VA, designer, project manager, or developer to run your business. You need the right stack. This is the setup I recommend to freelancers, creators, and consultants getting started: 💡 All of this costs less than $99/month — and removes the need&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>You don’t need a VA, designer, project manager, or developer to run your business. You need the right stack.</p>
+<p>This is the setup I recommend to freelancers, creators, and consultants getting started:</p>
+<h5><strong>1. Client Work &amp; Projects</strong></h5>
+<ul>
+<li><strong>Notion:</strong> Manage deliverables, feedback, and timelines.</li>
+<li><strong>Loom:</strong> Give updates without hopping on calls.</li>
+</ul>
+<h5><strong>2. Payments &amp; Contracts</strong></h5>
+<ul>
+<li><strong>Bonsai:</strong> Send proposals, get paid, handle taxes.</li>
+<li><strong>Stripe:</strong> Easy recurring subscriptions and payments.</li>
+</ul>
+<h5><strong>3. Marketing &amp; Automation</strong></h5>
+<ul>
+<li><strong>Beehiiv:</strong> Start a free newsletter that builds trust.</li>
+<li><strong>Zapier:</strong> Connect tools and auto-send reminders/invoices.</li>
+</ul>
+<p>💡 All of this costs less than $99/month — and removes the need to manage a team of people.</p>
+<hr>
+<h5><strong>You should also read:</strong></h5>
+<ul>
+<li><a href="https://www.timestacked.com/3-tech-stacks-that-run-entire-freelance-businesses.html">3 Tech Stacks That Run Entire Freelance Businesses</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>AI Tools I Use Weekly (and What I Ditched)</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/ai-tools-i-use-weekly-and-what-i-ditched.html"/>
+        <id>https://www.timestacked.com/ai-tools-i-use-weekly-and-what-i-ditched.html</id>
+            <category term="Productivity"/>
+            <category term="Freelancers"/>
+            <category term="Automation"/>
+            <category term="AI"/>
+
+        <updated>2025-08-04T12:24:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                    If you’ve been overwhelmed by the flood of new AI tools — you’re not alone. I tested dozens. Most were fluff. Some stuck. Here are the 5 I use weekly (and 3 I ditched): I use AI to accelerate tasks — not replace thinking. The&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>If you’ve been overwhelmed by the flood of new AI tools — you’re not alone. I tested dozens. Most were fluff. Some stuck.</p>
+<p>Here are the 5 I use weekly (and 3 I ditched):</p>
+<h5><strong>Still Using Weekly:</strong></h5>
+<ul>
+<li><strong>ChatGPT:</strong> For writing drafts, emails, and brainstorming offers. Huge time-saver.</li>
+<li><strong>Claude:</strong> Better for summarizing PDFs and longer content.</li>
+<li><strong>Monica:</strong> A browser AI assistant that saves clicks and time while researching.</li>
+<li><strong>Grammarly:</strong> For final proofreading — catches what I miss.</li>
+<li><strong>Whimsical AI:</strong> Helps map workflows or page structures visually, fast.</li>
+</ul>
+<h5><strong>Ditched:</strong></h5>
+<ul>
+<li><strong>Copy.ai:</strong> Overhyped — the output was generic every time.</li>
+<li><strong>Jasper:</strong> Pricey and clunky compared to free ChatGPT workflows.</li>
+<li><strong>Descript:</strong> Good idea, but buggy and slow for real work.</li>
+</ul>
+<h5><strong>My Workflow:</strong></h5>
+<p>I use AI to <strong>accelerate</strong> tasks — not replace thinking. The trick is combining tools into repeatable systems.</p>
+<hr>
+<h5><strong>You should also read:</strong></h5>
+<ul>
+<li><a href="https://www.timestacked.com/the-time-audit-a-simple-weekly-ritual-for-gaining-10-hours.html">The Time Audit: A Simple Weekly Ritual for Gaining 10+ Hours</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Time Audit: A Simple Weekly Ritual for Gaining 10+ Hours</title>
         <author>
@@ -227,138 +393,6 @@
 <p class="msg msg--success" data-start="4788" data-end="4894">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="https://www.timestacked.com/top-tools.html"> Browse Top Tools</a></p>
 <hr>
 <p data-start="4788" data-end="4894"><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Top Productivity Tools That Help You Get More Done in Less Time</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/productivity-boosters.html"/>
-        <id>https://www.timestacked.com/productivity-boosters.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/16/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg" medium="image" />
-            <category term="Productivity"/>
-            <category term="Notion"/>
-            <category term="Freelancers"/>
-
-        <updated>2025-08-02T18:25:49+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/16/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg" alt="" />
-                    Ditch the distractions and get more deep work done with these tools. They help you organize, focus, and stay consistent without burning out. 1. Notion — All-in-One Second Brain Tasks, notes, project boards — customized your way. 2. Todoist — Task Lists That Scale From&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/16/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Ditch the distractions and get more deep work done with these tools. <br>They help you <strong>organize</strong>, <strong>focus</strong>, and <strong>stay consistent </strong>without burning out.<br><br><br>1. <strong data-start="3514" data-end="3527">Notion</strong> — All-in-One Second Brain<br data-start="3553" data-end="3556">Tasks, notes, project boards — customized your way.</p>
-<p data-start="3609" data-end="3706">2. <strong data-start="3609" data-end="3623">Todoist</strong> — Task Lists That Scale<br data-start="3647" data-end="3650">From daily habits to big goals — keep everything moving.</p>
-<p data-start="3708" data-end="3806">3. <strong data-start="3708" data-end="3721">Motion</strong> — Your AI Calendar<br data-start="3740" data-end="3743">Auto-schedules your tasks into your calendar based on priority.</p>
-<p data-start="3808" data-end="3917">4. <strong data-start="3808" data-end="3826">Cold Turkey</strong> — Block Distractions<br data-start="3847" data-end="3850">Lock yourself into focus mode — apps, sites, or the whole internet.</p>
-<p data-start="3919" data-end="4011">5. <strong data-start="3919" data-end="3934">Brain.fm</strong> — Music for Focus<br data-start="3952" data-end="3955">Scientifically designed audio to get you in flow faster.<br><br><br><strong data-start="4013" data-end="4030">Bonus Tip: </strong>Start each day by defining 1–2 “non-negotiables” and blocking time to finish them early.</p>
-<p class="msg msg--success" data-start="3919" data-end="4011">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="https://www.timestacked.com/top-tools.html"> Browse Top Tools</a></p>
-<hr>
-<p data-start="3919" data-end="4011"><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Top Tools for Developers to Ship Faster and Collaborate Better</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/top-tools-for-developers.html"/>
-        <id>https://www.timestacked.com/top-tools-for-developers.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/15/pexels-goumbik-574071.jpg" medium="image" />
-            <category term="Productivity"/>
-            <category term="Developers"/>
-            <category term="Automation"/>
-
-        <updated>2025-08-02T18:22:57+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/15/pexels-goumbik-574071.jpg" alt="" />
-                    Whether you're solo or part of a team, these dev tools help you build, test, deploy, and document faster — all while staying in flow. 1. GitHub — Code Hosting &amp; Version Control The backbone of collaboration, open-source, and CI/CD workflows. 2. VS Code —&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/15/pexels-goumbik-574071.jpg" class="type:primaryImage" alt="" /></p>
-                <p data-start="2350" data-end="2496">Whether you're solo or part of a team, these dev tools help you <strong>build, test, deploy, and document faster</strong> — all while staying in flow.<br><strong><br><br></strong>1. <strong data-start="2590" data-end="2603">GitHub</strong> — Code Hosting &amp; Version Control<br data-start="2636" data-end="2639">The backbone of collaboration, open-source, and CI/CD workflows.</p>
-<p data-start="2705" data-end="2809">2. <strong data-start="2705" data-end="2719">VS Code</strong> — Lightweight, Powerful IDE<br data-start="2747" data-end="2750">Customizable, fast, and packed with time-saving extensions.</p>
-<p data-start="2811" data-end="2903">3. <strong data-start="2811" data-end="2825">Postman</strong> — API Testing Without Headaches<br data-start="2857" data-end="2860">Design, test, and document APIs like a pro.</p>
-<p data-start="2905" data-end="3011">4. <strong data-start="2905" data-end="2918">Docker</strong> — Replicable Dev Environments<br data-start="2948" data-end="2951">Containerize apps to eliminate "works on my machine" issues.</p>
-<p data-start="3013" data-end="3129">5. <strong data-start="3013" data-end="3027">Raycast</strong> — Productivity for Developers<br data-start="3057" data-end="3060">Boost your dev workflow with custom commands and GitHub integrations.<br><br><br><strong data-start="3131" data-end="3148">Bonus Tip:</strong><br data-start="3148" data-end="3151">Start your own GitHub repo of frequently used snippets or boilerplate setups.</p>
-<p class="msg msg--info msg--success">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="file:///C:\Users\symen\OneDrive\Documenten\Publii\sites\timestacked\preview/top-tools.html"> Browse Top Tools</a></p>
-<hr>
-<p><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Top Tools for Designers to Work Smarter and Create Stunning Work</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/top-tools-for-designers.html"/>
-        <id>https://www.timestacked.com/top-tools-for-designers.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/14/faizur-rehman-pHPzdEHN6Os-unsplash.jpg" medium="image" />
-            <category term="Designers"/>
-            <category term="Canva"/>
-
-        <updated>2025-08-02T18:20:37+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/14/faizur-rehman-pHPzdEHN6Os-unsplash.jpg" alt="" />
-                    Designers need intuitive, collaborative, and creative tools to stay ahead. These platforms save time and let your work shine across clients, campaigns, and personal projects. 1. Figma — Collaborative UI/UX Design Design interfaces with real-time collaboration and speed. 2. Canva Pro — Fast, Beautiful Templates&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/14/faizur-rehman-pHPzdEHN6Os-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Designers need intuitive, collaborative, and creative tools to stay ahead. <br>These platforms <strong>save time</strong> and let your work <strong>shine across clients, campaigns, and personal projects</strong>.<br><br><br>1. <strong data-start="1662" data-end="1674">Figma</strong> — Collaborative UI/UX Design<br data-start="1703" data-end="1706">Design interfaces with real-time collaboration and speed.</p>
-<p data-start="1765" data-end="1889">2. <strong data-start="1765" data-end="1781">Canva Pro</strong> — Fast, Beautiful Templates<br data-start="1809" data-end="1812">Go from idea to final visual in minutes — perfect for social or client decks.</p>
-<p data-start="1891" data-end="2013">3.<strong data-start="1891" data-end="1918"> Adobe Creative Cloud</strong> — Full Pro Suite<br data-start="1935" data-end="1938">Photoshop, Illustrator, InDesign — still the standard for top-tier visuals.</p>
-<p data-start="2015" data-end="2102">4. <strong data-start="2015" data-end="2029">Coolors</strong> — Perfect Color Palettes<br data-start="2054" data-end="2057">Generate and explore color palettes that pop.</p>
-<p data-start="2104" data-end="2197">5. <strong data-start="2104" data-end="2115">Loom</strong> — Show, Don’t Tell<br data-start="2134" data-end="2137">Record quick visual feedback or explain concepts to clients.<br><br><br><strong data-start="2199" data-end="2216">Bonus Tip: </strong>Build a Notion portfolio template that updates automatically as you complete projects.</p>
-<p class="msg msg--success" data-start="2104" data-end="2197">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="https://www.timestacked.com/top-tools.html"> Browse Top Tools</a></p>
-<hr>
-<p data-start="2104" data-end="2197"><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Top Tools for Coaches to Grow, Book Clients, and Deliver Results</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/top-tools-for-coaches.html"/>
-        <id>https://www.timestacked.com/top-tools-for-coaches.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/13/jesse-orrico-mse1vdzZXjA-unsplash.jpg" medium="image" />
-            <category term="Notion"/>
-            <category term="Descript"/>
-            <category term="Coaches"/>
-            <category term="Client Management"/>
-
-        <updated>2025-08-02T18:17:09+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/13/jesse-orrico-mse1vdzZXjA-unsplash.jpg" alt="" />
-                    Coaches need to stay focused on transformation — not tech headaches. These tools help you schedule effortlessly, connect with clients professionally, and deliver coaching that sticks. 1. Calendly — Frictionless Client Scheduling Let clients book sessions without the email ping-pong. 2. Zoom — Professional Video&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/13/jesse-orrico-mse1vdzZXjA-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p data-start="415" data-end="611">Coaches need to stay focused on transformation — not tech headaches.<strong> <br></strong>These tools help you <strong>schedule effortlessly</strong>, <strong>connect</strong> with clients <strong>professionally</strong>, and deliver <strong>coaching that sticks</strong>.<br><br><br>1. <strong data-start="707" data-end="722">Calendly</strong> — Frictionless Client Scheduling<br data-start="755" data-end="758">Let clients book sessions without the email ping-pong.</p>
-<p data-start="814" data-end="924">2. <strong data-start="814" data-end="825">Zoom</strong> — Professional Video Sessions<br data-start="855" data-end="858">Reliable, high-quality coaching calls — with recordings if needed.</p>
-<p data-start="926" data-end="1037">3. <strong data-start="926" data-end="939">Notion</strong> — Client Dashboards &amp; Progress Logs<br data-start="975" data-end="978">Keep each client organized in a beautiful shared workspace.</p>
-<p data-start="1039" data-end="1129">4. <strong data-start="1039" data-end="1052">Stripe</strong> — Hassle-Free Client Payments<br data-start="1082" data-end="1085">Easy, secure one-time or recurring payments.</p>
-<p data-start="1131" data-end="1238">5. <strong data-start="1131" data-end="1146">Descript</strong> — Repurpose Coaching Calls<br data-start="1173" data-end="1176">Turn your sessions into video clips, reels, or course content.<br><br><br><strong data-start="1240" data-end="1257">Bonus Tip: </strong>Offer free strategy calls via Calendly to generate leads while building trust.</p>
-<p class="msg msg--success" data-start="1131" data-end="1238">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="https://www.timestacked.com/top-tools.html"> Browse Top Tools</a></p>
-<hr>
-<p data-start="1131" data-end="1238"><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
             ]]>
         </content>
     </entry>
