@@ -3,14 +3,170 @@
     <title>TimeStacked</title>
     <link href="https://www.timestacked.com/feed.xml" rel="self" />
     <link href="https://www.timestacked.com" />
-    <updated>2025-08-05T17:35:41+02:00</updated>
+    <updated>2025-08-05T21:52:42+02:00</updated>
     <author>
         <name>Alex Deighton</name>
     </author>
     <id>https://www.timestacked.com</id>
 
     <entry>
-        <title>AI</title>
+        <title>Side Hustlers Tools &amp; Posts</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/side-hustlers-tools-and-posts.html"/>
+        <id>https://www.timestacked.com/side-hustlers-tools-and-posts.html</id>
+
+        <updated>2025-08-05T21:52:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Built for nights, weekends, and early mornings. Not all tools are created equal. These picks help you make real progress when time is tight — no fluff, no overwhelm. - The Time Audit: A Simple Weekly Ritual for Gaining 10+ Hours - How to Build&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-start="3335" data-end="3506"><strong data-start="3335" data-end="3386">Built for nights, weekends, and early mornings.</strong><br data-start="3386" data-end="3389">Not all tools are created equal. These picks help you make real progress when time is tight — no fluff, no overwhelm.</p>
+<h3 data-start="948" data-end="965"><strong data-start="948" data-end="965">Recent Posts</strong></h3>
+<p data-start="968" data-end="1031">- <a href="https://www.timestacked.com/the-time-audit-a-simple-weekly-ritual-for-gaining-10-hours.html">The Time Audit: A Simple Weekly Ritual for Gaining 10+ Hours</a><br>- <a href="https://www.timestacked.com/how-to-build-a-one-page-business-that-pays-monthly.html">How to Build a One-Page Business (That Pays Monthly)</a><br>- <a href="https://www.timestacked.com/5-tiny-tools-that-make-a-huge-difference-i-use-them-daily.html">5 Tiny Tools That Make a Huge Difference (I Use Them Daily)</a></p>
+<hr>
+<h3 style="margin: 1.5em 0 0.5em; font-weight: 600; color: #eee;">📬 Want lean stacks for busy lives?</h3>
+<form style="max-width: 460px;" action="https://formspree.io/f/xgvzlrjj" method="POST"><input style="width: 100%; padding: 0.75em; background: #111; border: 1px solid #444; border-radius: 6px; color: #eee; margin-top: 1em;" name="email" required="" type="email" placeholder="Your email"> <button style="margin-top: 1em; width: 100%; padding: 0.75em; background: #fff; color: #000; border: none; border-radius: 6px; font-weight: bold; cursor: pointer;" type="submit"> Subscribe </button></form>
+<p><small style="display: block; margin-top: 1em; color: #666;"> No spam. Unsubscribe anytime.</small></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Developers Tools &amp; Posts</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/developers-tools-and-posts.html"/>
+        <id>https://www.timestacked.com/developers-tools-and-posts.html</id>
+
+        <updated>2025-08-05T21:47:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Speed up your side projects. Whether you code full-time or tinker at night, these tools streamline development, documentation, and deployments — minus the bloat. - 3 Tech Stacks That Run Entire Freelance Businesses - AI Tools I Use Weekly (and What I Ditched) - How&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-start="2841" data-end="3008"><strong data-start="2841" data-end="2873">Speed up your side projects.</strong><br data-start="2873" data-end="2876">Whether you code full-time or tinker at night, these tools streamline development, documentation, and deployments — minus the bloat.</p>
+<h3 data-start="948" data-end="965"><strong data-start="948" data-end="965">Recent Posts</strong></h3>
+<p data-start="968" data-end="1031">- <a href="https://www.timestacked.com/3-tech-stacks-that-run-entire-freelance-businesses.html">3 Tech Stacks That Run Entire Freelance Businesses</a><br>- <a href="https://www.timestacked.com/ai-tools-i-use-weekly-and-what-i-ditched.html">AI Tools I Use Weekly (and What I Ditched)</a><br>- <a href="https://www.timestacked.com/how-to-build-a-one-page-business-that-pays-monthly.html">How to Build a One-Page Business (That Pays Monthly)</a></p>
+<hr>
+<h3 style="margin: 1.5em 0 0.5em; font-weight: 600; color: #eee;">📬 Want new stack combos every month?</h3>
+<form style="max-width: 460px;" action="https://formspree.io/f/xgvzlrjj" method="POST"><input style="width: 100%; padding: 0.75em; background: #111; border: 1px solid #444; border-radius: 6px; color: #eee; margin-top: 1em;" name="email" required="" type="email" placeholder="Your email"> <button style="margin-top: 1em; width: 100%; padding: 0.75em; background: #fff; color: #000; border: none; border-radius: 6px; font-weight: bold; cursor: pointer;" type="submit"> Subscribe </button></form>
+<p><small style="display: block; margin-top: 1em; color: #666;"> No spam. Unsubscribe anytime.</small></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Designers Tools &amp; Posts</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/designers-tools-and-posts.html"/>
+        <id>https://www.timestacked.com/designers-tools-and-posts.html</id>
+
+        <updated>2025-08-05T21:41:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Less chaos. More clean lines. From feedback tools to portfolio builders, we share tools that make the creative process smoother — and get you paid faster. - 5 Tiny Tools That Make a Huge Difference (I Use Them Daily) - The $99 Tech Stack That&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-start="2345" data-end="2505"><strong data-start="2345" data-end="2378">Less chaos. More clean lines.</strong><br data-start="2378" data-end="2381">From feedback tools to portfolio builders, we share tools that make the creative process smoother — and get you paid faster.</p>
+<h3 data-start="948" data-end="965"><strong data-start="948" data-end="965">Recent Posts</strong></h3>
+<p data-start="968" data-end="1031">- <a href="https://www.timestacked.com/5-tiny-tools-that-make-a-huge-difference-i-use-them-daily.html">5 Tiny Tools That Make a Huge Difference (I Use Them Daily)</a><br>- <a href="https://www.timestacked.com/the-99-tech-stack-that-replaces-a-2500month-team.html">The $99 Tech Stack That Replaces a $2,500/month Team</a><br>- <a href="https://www.timestacked.com/ai-tools-i-use-weekly-and-what-i-ditched.html">AI Tools I Use Weekly (and What I Ditched)</a></p>
+<hr>
+<h3 style="margin: 1.5em 0 0.5em; font-weight: 600; color: #eee;">📬 Want client-friendly tools and scripts?</h3>
+<form style="max-width: 460px;" action="https://formspree.io/f/xgvzlrjj" method="POST"><input style="width: 100%; padding: 0.75em; background: #111; border: 1px solid #444; border-radius: 6px; color: #eee; margin-top: 1em;" name="email" required="" type="email" placeholder="Your email"> <button style="margin-top: 1em; width: 100%; padding: 0.75em; background: #fff; color: #000; border: none; border-radius: 6px; font-weight: bold; cursor: pointer;" type="submit"> Subscribe </button></form>
+<p><small style="display: block; margin-top: 1em; color: #666;"> No spam. Unsubscribe anytime.</small></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Coaches Tools &amp; Posts</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/coaches-tools-and-posts-2.html"/>
+        <id>https://www.timestacked.com/coaches-tools-and-posts-2.html</id>
+
+        <updated>2025-08-05T21:37:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Clarity. Systems. Scale. Whether you're coaching 1:1 or building digital courses, these tools help manage clients, deliver value, and grow without burnout. - How to Say “No” Without Burning Bridges (Client Scripts) - How to Build a One-Page Business (That Pays Monthly) - Why Your Time&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-start="1828" data-end="1989"><strong data-start="1828" data-end="1856">Clarity. Systems. Scale.</strong><br data-start="1856" data-end="1859">Whether you're coaching 1:1 or building digital courses, these tools help manage clients, deliver value, and grow without burnout.</p>
+<h3 data-start="948" data-end="965"><strong data-start="948" data-end="965">Recent Posts</strong></h3>
+<p data-start="968" data-end="1031">- <a href="https://www.timestacked.com/how-to-say-no-without-burning-bridges-client-scripts.html">How to Say “No” Without Burning Bridges (Client Scripts)</a><br>- <a href="https://www.timestacked.com/how-to-build-a-one-page-business-that-pays-monthly.html">How to Build a One-Page Business (That Pays Monthly)</a><br>- <a href="https://www.timestacked.com/why-your-time-tracking-tools-fail.html">Why Your Time Tracking Tools Fail (and What to Use Instead)</a></p>
+<hr>
+<h3 style="margin: 1.5em 0 0.5em; font-weight: 600; color: #eee;">📬 Want client-friendly tools and scripts?</h3>
+<form style="max-width: 460px;" action="https://formspree.io/f/xgvzlrjj" method="POST"><input style="width: 100%; padding: 0.75em; background: #111; border: 1px solid #444; border-radius: 6px; color: #eee; margin-top: 1em;" name="email" required="" type="email" placeholder="Your email"> <button style="margin-top: 1em; width: 100%; padding: 0.75em; background: #fff; color: #000; border: none; border-radius: 6px; font-weight: bold; cursor: pointer;" type="submit"> Subscribe </button></form>
+<p><small style="display: block; margin-top: 1em; color: #666;"> No spam. Unsubscribe anytime.</small></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Freelancers Tools &amp; Posts</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/coaches-tools-and-posts.html"/>
+        <id>https://www.timestacked.com/coaches-tools-and-posts.html</id>
+
+        <updated>2025-08-05T21:32:47+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Tools that free you to freelance — not chain you down. From proposals to project delivery, these are curated tools and systems that save time, simplify client work, and increase margins. - The $99 Tech Stack That Replaces a $2,500/month Team - How to Say “No”&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-start="1290" data-end="1482"><strong data-start="1290" data-end="1348">Tools that free you to freelance — not chain you down.</strong><br data-start="1348" data-end="1351">From proposals to project delivery, these are curated tools and systems that save time, simplify client work, and increase margins.</p>
+<h3 data-start="948" data-end="965"><strong data-start="948" data-end="965">Recent Posts</strong></h3>
+<p data-start="968" data-end="1031">- <a href="https://www.timestacked.com/the-99-tech-stack-that-replaces-a-2500month-team.html">The $99 Tech Stack That Replaces a $2,500/month Team</a><br>- <a href="https://www.timestacked.com/how-to-say-no-without-burning-bridges-client-scripts.html">How to Say “No” Without Burning Bridges (Client Scripts)</a><br>- <a href="https://www.timestacked.com/the-time-audit-a-simple-weekly-ritual-for-gaining-10-hours.html">Time Audit: A Simple Weekly Ritual for Gaining 10+ Hours</a></p>
+<hr>
+<h3 style="margin: 1.5em 0 0.5em; font-weight: 600; color: #eee;">📬 Want client-friendly tools and scripts?</h3>
+<form style="max-width: 460px;" action="https://formspree.io/f/xgvzlrjj" method="POST"><input style="width: 100%; padding: 0.75em; background: #111; border: 1px solid #444; border-radius: 6px; color: #eee; margin-top: 1em;" name="email" required="" type="email" placeholder="Your email"> <button style="margin-top: 1em; width: 100%; padding: 0.75em; background: #fff; color: #000; border: none; border-radius: 6px; font-weight: bold; cursor: pointer;" type="submit"> Subscribe </button></form>
+<p><small style="display: block; margin-top: 1em; color: #666;"> No spam. Unsubscribe anytime.</small></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Creators Tools &amp; Posts</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/creators-tools-and-posts.html"/>
+        <id>https://www.timestacked.com/creators-tools-and-posts.html</id>
+
+        <updated>2025-08-05T17:58:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Create faster. Ship more. Burn out less. Explore tools and systems that help creators turn ideas into digital products, newsletters, and income — without needing a team. - 5 Tiny Tools That Make a Huge Difference (I Use Them Daily) - How to Build a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-start="771" data-end="946"><strong data-start="771" data-end="815">Create faster. Ship more. Burn out less.</strong><br data-start="815" data-end="818">Explore tools and systems that help creators turn ideas into digital products, newsletters, and income — without needing a team.</p>
+<h3 data-start="948" data-end="965"><strong data-start="948" data-end="965">Recent Posts</strong></h3>
+<p data-start="968" data-end="1031">- <a href="https://www.timestacked.com/5-tiny-tools-that-make-a-huge-difference-i-use-them-daily.html">5 Tiny Tools That Make a Huge Difference (I Use Them Daily)</a><br>- <a href="https://www.timestacked.com/how-to-build-a-one-page-business-that-pays-monthly.html">How to Build a One-Page Business (That Pays Monthly)</a><br>- <a href="https://www.timestacked.com/3-tech-stacks-that-run-entire-freelance-businesses.html">3 Tech Stacks That Run Entire Freelance Businesses</a></p>
+<p> </p>
+<h3 style="margin: 1.5em 0 0.5em; font-weight: 600; color: #eee;">📬 Want monthly creator toolkits and templates?</h3>
+<form style="max-width: 460px;" action="https://formspree.io/f/xgvzlrjj" method="POST"><input style="width: 100%; padding: 0.75em; background: #111; border: 1px solid #444; border-radius: 6px; color: #eee; margin-top: 1em;" name="email" required="" type="email" placeholder="Your email"> <button style="margin-top: 1em; width: 100%; padding: 0.75em; background: #fff; color: #000; border: none; border-radius: 6px; font-weight: bold; cursor: pointer;" type="submit"> Subscribe </button></form>
+<p><small style="display: block; margin-top: 1em; color: #666;"> No spam. Unsubscribe anytime. </small></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>AI Tools &amp; Posts</title>
         <author>
             <name>Alex Deighton</name>
         </author>
@@ -151,265 +307,6 @@
 <ul>
 <li><a href="https://www.timestacked.com/the-99-tech-stack-that-replaces-a-2500month-team.html">The $99 Tech Stack That Replaces a $2,500/month Team</a></li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How to Say “No” Without Burning Bridges (Client Scripts)</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/how-to-say-no-without-burning-bridges-client-scripts.html"/>
-        <id>https://www.timestacked.com/how-to-say-no-without-burning-bridges-client-scripts.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/29/ales-cerin-H2DwGkqZCMc-unsplash.jpg" medium="image" />
-            <category term="Freelancers"/>
-            <category term="Client Management"/>
-
-        <updated>2025-08-04T12:34:48+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/29/ales-cerin-H2DwGkqZCMc-unsplash.jpg" alt="" />
-                    We all want to be helpful. But “yes” to everything means burnout fast. Boundaries = freedom. Here are 3 scripts to say no — without damaging relationships: “Thanks so much for thinking of me. I’m fully booked this month and want to give each client&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/29/ales-cerin-H2DwGkqZCMc-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>We all want to be helpful. But “yes” to everything means <strong>burnout</strong> fast. Boundaries = freedom.</p>
-<p>Here are 3 scripts to say no — without damaging relationships:</p>
-<h5><strong>1. Saying No to a New Project</strong></h5>
-<p>“Thanks so much for thinking of me. I’m fully booked this month and want to give each client my best. If anything changes, I’ll let you know!”</p>
-<h5><strong>2. Saying No to a Last-Minute Request</strong></h5>
-<p>“Hey! I’d love to help, but this falls outside of the current scope and turnaround. I can prioritize it next week for [X fee], if that works.”</p>
-<h5><strong>3. Saying No to the Wrong Fit</strong></h5>
-<p>“Appreciate you reaching out. Based on your goals, I might not be the best fit — but here are 2 people I’d recommend.”</p>
-<p>Use a Notion page to store &amp; reuse scripts like these. Saves brain cycles and keeps tone professional.</p>
-<hr>
-<h5><strong>You should also read:</strong></h5>
-<ul>
-<li><a href="https://www.timestacked.com/the-time-audit-a-simple-weekly-ritual-for-gaining-10-hours.html">The Time Audit: A Simple Weekly Ritual for Gaining 10+ Hours</a></li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The $99 Tech Stack That Replaces a $2,500/month Team</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/the-99-tech-stack-that-replaces-a-2500month-team.html"/>
-        <id>https://www.timestacked.com/the-99-tech-stack-that-replaces-a-2500month-team.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/28/pexels-mikegles-33247295.jpg" medium="image" />
-            <category term="Notion"/>
-            <category term="Freelancers"/>
-
-        <updated>2025-08-04T12:31:05+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/28/pexels-mikegles-33247295.jpg" alt="" />
-                    You don’t need a VA, designer, project manager, or developer to run your business. You need the right stack. This is the setup I recommend to freelancers, creators, and consultants getting started: All of this costs less than $99/month — and removes the need to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/28/pexels-mikegles-33247295.jpg" class="type:primaryImage" alt="" /></p>
-                <p>You don’t need a VA, designer, project manager, or developer to run your business. You need the right stack.</p>
-<p>This is the setup I recommend to freelancers, creators, and consultants getting started:</p>
-<h5><strong>1. Client Work &amp; Projects</strong></h5>
-<ul>
-<li><strong>Notion:</strong> Manage deliverables, feedback, and timelines.</li>
-<li><strong>Loom:</strong> Give updates without hopping on calls.</li>
-</ul>
-<h5><strong>2. Payments &amp; Contracts</strong></h5>
-<ul>
-<li><strong>Bonsai:</strong> Send proposals, get paid, handle taxes.</li>
-<li><strong>Stripe:</strong> Easy recurring subscriptions and payments.</li>
-</ul>
-<h5><strong>3. Marketing &amp; Automation</strong></h5>
-<ul>
-<li><strong>Beehiiv:</strong> Start a free newsletter that builds trust.</li>
-<li><strong>Zapier:</strong> Connect tools and auto-send reminders/invoices.</li>
-</ul>
-<p>All of this costs less than $99/month — and removes the need to manage a team of people.</p>
-<hr>
-<h5><strong>You should also read:</strong></h5>
-<ul>
-<li><a href="https://www.timestacked.com/3-tech-stacks-that-run-entire-freelance-businesses.html">3 Tech Stacks That Run Entire Freelance Businesses</a></li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>AI Tools I Use Weekly (and What I Ditched)</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/ai-tools-i-use-weekly-and-what-i-ditched.html"/>
-        <id>https://www.timestacked.com/ai-tools-i-use-weekly-and-what-i-ditched.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/27/thisisengineering-mvbtVeRVJzg-unsplash.jpg" medium="image" />
-            <category term="Productivity"/>
-            <category term="Freelancers"/>
-            <category term="Automation"/>
-            <category term="AI"/>
-
-        <updated>2025-08-04T12:24:31+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/27/thisisengineering-mvbtVeRVJzg-unsplash.jpg" alt="" />
-                    If you’ve been overwhelmed by the flood of new AI tools — you’re not alone. I tested dozens. Most were fluff. Some stuck. Here are the 5 I use weekly (and 3 I ditched): I use AI to accelerate tasks — not replace thinking. The&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/27/thisisengineering-mvbtVeRVJzg-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>If you’ve been overwhelmed by the flood of new AI tools — you’re not alone. I tested dozens. Most were fluff. Some stuck.</p>
-<p>Here are the 5 I use weekly (and 3 I ditched):</p>
-<h5><strong>Still Using Weekly:</strong></h5>
-<ul>
-<li><strong>ChatGPT:</strong> For writing drafts, emails, and brainstorming offers. Huge time-saver.</li>
-<li><strong>Claude:</strong> Better for summarizing PDFs and longer content.</li>
-<li><strong>Monica:</strong> A browser AI assistant that saves clicks and time while researching.</li>
-<li><strong>Grammarly:</strong> For final proofreading — catches what I miss.</li>
-<li><strong>Whimsical AI:</strong> Helps map workflows or page structures visually, fast.</li>
-</ul>
-<h5><strong>Ditched:</strong></h5>
-<ul>
-<li><strong>Copy.ai:</strong> Overhyped — the output was generic every time.</li>
-<li><strong>Jasper:</strong> Pricey and clunky compared to free ChatGPT workflows.</li>
-<li><strong>Descript:</strong> Good idea, but buggy and slow for real work.</li>
-</ul>
-<h5><strong>My Workflow:</strong></h5>
-<p>I use AI to <strong>accelerate</strong> tasks — not replace thinking. The trick is combining tools into repeatable systems.</p>
-<hr>
-<h5><strong>You should also read:</strong></h5>
-<ul>
-<li><a href="https://www.timestacked.com/ai-powered-creators.html">Top AI Tools for Creators Who Want to Work Smarter</a></li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Time Audit: A Simple Weekly Ritual for Gaining 10+ Hours</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/the-time-audit-a-simple-weekly-ritual-for-gaining-10-hours.html"/>
-        <id>https://www.timestacked.com/the-time-audit-a-simple-weekly-ritual-for-gaining-10-hours.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/26/pexels-leeloothefirst-8962475.jpg" medium="image" />
-            <category term="Time Management"/>
-            <category term="Productivity"/>
-            <category term="Freelancers"/>
-
-        <updated>2025-08-04T12:03:09+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/26/pexels-leeloothefirst-8962475.jpg" alt="" />
-                    If you’ve ever felt like the week flew by and you got nothing meaningful done… you're not alone. Most people spend their time reactively, not intentionally. A time audit fixes that. Here’s the simple process I use every Sunday to reclaim 10+ hours each week.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/26/pexels-leeloothefirst-8962475.jpg" class="type:primaryImage" alt="" /></p>
-                <p data-start="745" data-end="928">If you’ve ever felt like the week flew by and you got <em data-start="799" data-end="808">nothing</em> meaningful done… you're not alone. Most people spend their time reactively, not intentionally. A time audit fixes that.</p>
-<p data-start="930" data-end="1006">Here’s the simple process I use every Sunday to <strong>reclaim 10+ hours each week</strong>.<br><br></p>
-<h5 data-start="930" data-end="1006">Step 1: <strong>Look Back at the Week</strong></h5>
-<p data-start="1051" data-end="1121">Open your calendar, time tracking app, or even your notebook. Look at:</p>
-<ul data-start="1123" data-end="1243">
-<li data-start="1123" data-end="1154">
-<p data-start="1125" data-end="1154">Where your time actually went</p>
-</li>
-<li data-start="1123" data-end="1154">
-<p data-start="1125" data-end="1154">What work drained your energy</p>
-</li>
-<li data-start="1187" data-end="1243">
-<p data-start="1189" data-end="1243">What you did that <strong data-start="1207" data-end="1227">moved the needle</strong> vs. what didn’t</p>
-</li>
-</ul>
-<p data-start="1245" data-end="1273"><strong>Write down 3–5 time-wasters.</strong><br><br></p>
-<h5 data-start="1245" data-end="1273">Step 2: <strong>Identify Your “High-Leverage” Work</strong></h5>
-<p data-start="1331" data-end="1437">Next, highlight the top 2–3 activities that drove results—client wins, content produced, systems improved.</p>
-<p data-start="1439" data-end="1443">Ask: <em><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">If I only did these next week, would it move my work forward?<br><br></span></em></p>
-<h5 data-start="1439" data-end="1443">Step 3: <strong>Design Your Ideal Week</strong></h5>
-<p data-start="1553" data-end="1672">Now use your insights to block your upcoming week. Remove 1–2 things that drained you. Reprioritize time for deep work.</p>
-<p data-start="1674" data-end="1725">I personally use Notion and Cron calendar for this.</p>
-<h5 class="msg msg--success" data-start="1674" data-end="1725">Optional: Use a Template</h5>
-<hr>
-<p data-start="1765" data-end="1848">Need a structure? Here's a simple <a data-start="1799" data-end="1833" class="" rel="noopener" href="#">Time Audit Template in Notion</a> (Coming soon).</p>
-<p data-start="1855" data-end="1939">👉 Do this weekly. You’ll know where your time leaks—and what to double down on.</p>
-<hr data-start="1941" data-end="1944">
-<h5 data-start="1946" data-end="1974">You should also read:</h5>
-<ul data-start="1975" data-end="2041">
-<li data-start="1975" data-end="2041">
-<p data-start="1977" data-end="2041"><a href="https://www.timestacked.com/why-your-time-tracking-tools-fail.html">Why Your Time Tracking Tools Fail (and What to Use Instead)</a></p>
-</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>3 Tech Stacks That Run Entire Freelance Businesses</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/3-tech-stacks-that-run-entire-freelance-businesses.html"/>
-        <id>https://www.timestacked.com/3-tech-stacks-that-run-entire-freelance-businesses.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/24/david-schultz-SrewPUfo2c0-unsplash.jpg" medium="image" />
-            <category term="Notion"/>
-            <category term="Freelancers"/>
-            <category term="Automation"/>
-
-        <updated>2025-08-03T00:25:34+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/24/david-schultz-SrewPUfo2c0-unsplash.jpg" alt="" />
-                    You don’t need a huge team or budget to run a business. Just the right tools, stacked well. Here are 3 time-tested freelance setups: Stack 1: Creative Freelancer - Notion → project and client dashboard - Canva Pro → quick graphics - PayPal or Wise&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/24/david-schultz-SrewPUfo2c0-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>You don’t need a huge team or budget to run a business. Just the right tools, stacked well.<br><br>Here are 3 time-tested freelance setups:<br><br><br><strong>Stack 1: Creative Freelancer  </strong><br>- Notion → project and client dashboard  <br>- Canva Pro → quick graphics  <br>- PayPal or Wise → get paid globally  <br><br><br><strong>Stack 2: Consultant  </strong><br>- Calendly → booking calls  <br>- Zoom → meetings  <br>- Bonsai → contracts + invoicing  <br><br><br><strong>Stack 3: Productized Service  </strong><br>- Tally.so → client onboarding form  <br>- Airtable → track delivery  <br>- Stripe → subscriptions/payments  <br><br><br><strong>Pick one, customize, and go. Don’t overthink tech — focus on delivering value.</strong></p>
-<hr>
-<p><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Why Your Time Tracking Tools Fail (and What to Use Instead)</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/why-your-time-tracking-tools-fail.html"/>
-        <id>https://www.timestacked.com/why-your-time-tracking-tools-fail.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/23/pexels-pixabay-48770.jpg" medium="image" />
-            <category term="Time Tracking"/>
-            <category term="Productivity"/>
-
-        <updated>2025-08-03T00:23:39+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/23/pexels-pixabay-48770.jpg" alt="" />
-                    You're not broken. Your tool is. Many freelancers and solopreneurs blame themselves when they fail to stick to a time tracking habit. But here's the truth: most tools are built for teams, not individuals. Common Issues: Better Alternatives: Pro Tip: Block 5 minutes every Friday&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/23/pexels-pixabay-48770.jpg" class="type:primaryImage" alt="" /></p>
-                <p><strong>You're not broken. Your tool is.</strong><br><br>Many freelancers and solopreneurs blame themselves when they fail to stick to a time tracking habit. But here's the truth: <em>most tools are built for teams, not individuals</em>.<br><br><br>Common Issues:</p>
-<ul>
-<li>Too many manual steps to log time</li>
-<li>Ugly, cluttered interfaces</li>
-<li>No feedback loop or reward for consistency</li>
-</ul>
-<p>Better Alternatives:</p>
-<ul>
-<li><strong>Toggl Track</strong> – Clean UI and blazing fast tracking</li>
-<li><strong>RescueTime </strong>– Works automatically in the background</li>
-<li><strong style="font-family: var(--editor-font-family); font-size: inherit;">TimeCamp</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> – Tracks billable hours + integrates with Trello/Asana</span></li>
-</ul>
-<p><br><strong>Pro Tip</strong>: Block 5 minutes every Friday to review your weekly dashboard. Small tweaks = massive gains.<br><br></p>
-<hr>
-<p><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
             ]]>
         </content>
     </entry>
