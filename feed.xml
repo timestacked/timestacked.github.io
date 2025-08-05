@@ -3,12 +3,38 @@
     <title>TimeStacked</title>
     <link href="https://www.timestacked.com/feed.xml" rel="self" />
     <link href="https://www.timestacked.com" />
-    <updated>2025-08-05T17:13:41+02:00</updated>
+    <updated>2025-08-05T17:35:41+02:00</updated>
     <author>
         <name>Alex Deighton</name>
     </author>
     <id>https://www.timestacked.com</id>
 
+    <entry>
+        <title>AI</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/ai.html"/>
+        <id>https://www.timestacked.com/ai.html</id>
+
+        <updated>2025-08-05T17:32:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Smarter workflows, not smarter robots. We test AI tools so you don’t have to. From writing assistants to automation scripts, these picks help you accelerate output — without losing control. - AI Tools I Use Weekly (and What I Ditched) - The $99 Tech Stack&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-start="239" data-end="434"><strong data-start="239" data-end="281">Smarter workflows, not smarter robots.</strong><br data-start="281" data-end="284">We test AI tools so you don’t have to. From writing assistants to automation scripts, these picks help you accelerate output — without losing control.</p>
+<h3 data-start="436" data-end="453"><strong data-start="436" data-end="453">Recent Posts</strong></h3>
+<p data-start="456" data-end="502">- <a href="https://www.timestacked.com/ai-tools-i-use-weekly-and-what-i-ditched.html">AI Tools I Use Weekly (and What I Ditched)</a><br>- <a href="https://www.timestacked.com/the-99-tech-stack-that-replaces-a-2500month-team.html">The $99 Tech Stack That Replaces a $2,500/month Team</a><br>- <a href="https://www.timestacked.com/why-your-time-tracking-tools-fail.html">Why Your Time Tracking Tools Fail (and What to Use Instead)</a></p>
+<hr>
+<h3 style="margin: 1.5em 0 0.5em; font-weight: 600; color: #eee;">📬 Want monthly summaries of new AI stacks?</h3>
+<form style="max-width: 460px;" action="https://formspree.io/f/xgvzlrjj" method="POST"><input style="width: 100%; padding: 0.75em; background: #111; border: 1px solid #444; border-radius: 6px; color: #eee; margin-top: 1em;" name="email" required="" type="email" placeholder="Your email"> <button style="margin-top: 1em; width: 100%; padding: 0.75em; background: #fff; color: #000; border: none; border-radius: 6px; font-weight: bold; cursor: pointer;" type="submit"> Subscribe </button></form>
+<p><small style="display: block; margin-top: 1em; color: #666;"> No spam. Unsubscribe anytime. </small></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>5 Tiny Tools That Make a Huge Difference (I Use Them Daily)</title>
         <author>
@@ -384,39 +410,6 @@
 <p><br><strong>Pro Tip</strong>: Block 5 minutes every Friday to review your weekly dashboard. Small tweaks = massive gains.<br><br></p>
 <hr>
 <p><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Top Tools to Launch and Grow Your Side Hustle</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/side-hustle-essentials.html"/>
-        <id>https://www.timestacked.com/side-hustle-essentials.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/19/garrhet-sampson-DSQda5dqWPw-unsplash.jpg" medium="image" />
-            <category term="Side Hustle"/>
-            <category term="Creators"/>
-            <category term="Canva"/>
-
-        <updated>2025-08-02T18:33:17+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/19/garrhet-sampson-DSQda5dqWPw-unsplash.jpg" alt="" />
-                    Turning ideas into income? These tools help you launch, market, and sell with minimal tech skills and zero fluff. 1. Gumroad — Sell Products in Minutes Launch digital goods, courses, or services with no platform fees. 2. Carrd — Simple Landing Pages Build sleek 1-pagers&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/19/garrhet-sampson-DSQda5dqWPw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p data-start="5911" data-end="6037">Turning ideas into income? <br>These tools help you launch, market, and sell with <strong>minimal tech skills</strong> and <strong>zero fluff</strong>.<br><br><br>1.<strong data-start="6114" data-end="6128"> Gumroad</strong> — Sell Products in Minutes<br data-start="6155" data-end="6158">Launch digital goods, courses, or services with no platform fees.</p>
-<p data-start="6225" data-end="6317">2.<strong data-start="6225" data-end="6237"> Carrd</strong> — Simple Landing Pages<br data-start="6260" data-end="6263">Build sleek 1-pagers for products or ideas — $19/year.</p>
-<p data-start="6319" data-end="6404">3. <strong data-start="6319" data-end="6331">Tally</strong> — Free Form Builder<br data-start="6351" data-end="6354">Collect leads, validate ideas, or take pre-orders.</p>
-<p data-start="6406" data-end="6499">4. <strong data-start="6406" data-end="6420">Beehiiv</strong> — Start Your Email Newsletter<br data-start="6450" data-end="6453">Build and monetize your audience from day one.</p>
-<p data-start="6501" data-end="6614">5.<strong data-start="6501" data-end="6517"> Canva Pro</strong> — DIY Design That Doesn’t Look DIY<br data-start="6552" data-end="6555">Make banners, logos, and posts that look professional fast.<br><br><br><strong data-start="6616" data-end="6633">Bonus Tip: </strong>Start simple: One product + one page + one email form. Don’t overcomplicate launch.</p>
-<p class="msg msg--success" data-start="6501" data-end="6614">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="https://www.timestacked.com/top-tools.html"> Browse Top Tools</a></p>
-<hr>
-<p data-start="6501" data-end="6614"><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
             ]]>
         </content>
     </entry>
