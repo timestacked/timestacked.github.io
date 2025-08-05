@@ -3,12 +3,44 @@
     <title>TimeStacked</title>
     <link href="https://www.timestacked.com/feed.xml" rel="self" />
     <link href="https://www.timestacked.com" />
-    <updated>2025-08-04T14:23:01+02:00</updated>
+    <updated>2025-08-05T15:10:02+02:00</updated>
     <author>
         <name>Alex Deighton</name>
     </author>
     <id>https://www.timestacked.com</id>
 
+    <entry>
+        <title>Productivity Tools That Actually Make You Faster (Not Just Busier)</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/productivity-tools-that-actually-make-you-faster-not-just-busier.html"/>
+        <id>https://www.timestacked.com/productivity-tools-that-actually-make-you-faster-not-just-busier.html</id>
+            <category term="Time Management"/>
+
+        <updated>2025-08-05T15:07:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Not all productivity tools help. Some just add noise. That’s why every post in this section focuses on real efficiency gains — the kind that gives you time back, not more to manage. Here’s a roundup of our top productivity content — tools, tactics, and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Not all productivity tools help. Some just add noise. That’s why every post in this section focuses on <strong>real efficiency gains</strong> — the kind that gives you time back, not more to manage.</p>
+<p>Here’s a roundup of our top productivity content — tools, tactics, and frameworks built to <em>shrink your to-do list and expand your results</em>.</p>
+<h5><a href="#INTERNAL_LINK#/post/time-audit">The Time Audit: A Simple Weekly Ritual for Gaining 10+ Hours</a></h5>
+<p>Most people don’t track where their time goes — so they repeat the same mistakes each week. This ritual fixes that. Takes 30 minutes, saves hours.</p>
+<h5><a href="#INTERNAL_LINK#/post/ai-tools">AI Tools I Use Weekly (and What I Ditched)</a></h5>
+<p>I tested dozens of AI tools. Here are the five that stuck — and how I use them to support, not replace, real thinking and creativity.</p>
+<h5><a href="#non-existing-post-with-id-99-stack">The $99 Tech Stack That Replaces a $2,500/month Team</a></h5>
+<p>No team? No problem. This lean stack handles admin, delivery, marketing, and ops — for the cost of dinner out.</p>
+<h5><a href="#non-existing-post-with-id-5-tiny-tools">5 Tiny Tools That Make a Huge Difference (I Use Them Daily)</a></h5>
+<p>These aren’t flashy. But they’re in my daily workflow because they quietly eliminate friction. The best part? Most are under $20 or free.</p>
+<h5><a href="#INTERNAL_LINK#/post/time-tracking">Why Your Time Tracking Tools Fail (and What to Use Instead)</a></h5>
+<p>If tracking your time feels like busywork, you’re doing it wrong. Here’s how to make time tracking useful — and actually stick with it.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to Build a One-Page Business (That Pays Monthly)</title>
         <author>
@@ -182,7 +214,7 @@
 <hr>
 <h5><strong>You should also read:</strong></h5>
 <ul>
-<li><a href="https://www.timestacked.com/the-time-audit-a-simple-weekly-ritual-for-gaining-10-hours.html">The Time Audit: A Simple Weekly Ritual for Gaining 10+ Hours</a></li>
+<li><a href="https://www.timestacked.com/ai-powered-creators.html">Top AI Tools for Creators Who Want to Work Smarter</a></li>
 </ul>
             ]]>
         </content>
@@ -374,40 +406,6 @@
 <p class="msg msg--success" data-start="5664" data-end="5760">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="https://www.timestacked.com/top-tools.html"> Browse Top Tools</a></p>
 <hr>
 <p data-start="5664" data-end="5760"><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Top AI Tools for Creators Who Want to Work Smarter</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/ai-powered-creators.html"/>
-        <id>https://www.timestacked.com/ai-powered-creators.html</id>
-        <media:content url="https://www.timestacked.com/media/posts/17/zulfugar-karimov-wl67wKt8hNI-unsplash.jpg" medium="image" />
-            <category term="Descript"/>
-            <category term="Creators"/>
-            <category term="ChatGPT"/>
-            <category term="AI Tools"/>
-
-        <updated>2025-08-02T18:28:48+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.timestacked.com/media/posts/17/zulfugar-karimov-wl67wKt8hNI-unsplash.jpg" alt="" />
-                    Whether you’re writing content, making videos, or designing — these AI tools help you create faster, better, and at scale. 1. ChatGPT — AI Writing &amp; Brainstorming Use it for outlines, ideas, rewrites, or social captions. 2. Midjourney — AI-Generated Visuals Turn words into stunning&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.timestacked.com/media/posts/17/zulfugar-karimov-wl67wKt8hNI-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p data-start="4158" data-end="4293">Whether you’re writing content, making videos, or designing — these AI tools help you <strong>create faster, better, and at scale</strong>.<br><strong><br><br></strong>1. <strong data-start="4375" data-end="4389">ChatGPT</strong> — AI Writing &amp; Brainstorming<br data-start="4418" data-end="4421">Use it for outlines, ideas, rewrites, or social captions.</p>
-<p data-start="4480" data-end="4581">2. <strong data-start="4480" data-end="4497">Midjourney</strong> — AI-Generated Visuals<br data-start="4520" data-end="4523">Turn words into stunning visuals for thumbnails or social.</p>
-<p data-start="4583" data-end="4689">3. <strong data-start="4583" data-end="4598">Descript</strong> — Smart Audio/Video Editing<br data-start="4626" data-end="4629">Edit audio like a doc, remove “ums,” add voiceovers — magic.</p>
-<p data-start="4691" data-end="4786">4. <strong data-start="4691" data-end="4704">Jasper</strong> — AI Copy for Brands<br data-start="4725" data-end="4728">Blog posts, ad copy, product pages — tuned for conversion.</p>
-<p data-start="4788" data-end="4894">5. <strong data-start="4788" data-end="4804">Opus Clip</strong> — Repurpose Long-Form Video<br data-start="4832" data-end="4835">Cut your YouTube videos into TikTok-ready shorts instantly.<br><br><br><strong data-start="4896" data-end="4913">Bonus Tip: </strong>Use AI for the first draft, but always add your unique insight. Blend speed with voice.</p>
-<p class="msg msg--success" data-start="4788" data-end="4894">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href="https://www.timestacked.com/top-tools.html"> Browse Top Tools</a></p>
-<hr>
-<p data-start="4788" data-end="4894"><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>
             ]]>
         </content>
     </entry>
