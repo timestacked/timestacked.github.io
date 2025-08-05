@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.timestacked.com/5-tiny-tools-that-make-a-huge-difference-i-use-them-daily.html",
+            "url": "https://www.timestacked.com/5-tiny-tools-that-make-a-huge-difference-i-use-them-daily.html",
+            "title": "5 Tiny Tools That Make a Huge Difference (I Use Them Daily)",
+            "summary": "If you’ve ever thought, “There must be a better way to do this,” — you’re right. Often, it's not about hiring a team or buying complex software. It's about finding tiny tools that quietly do the heavy lifting. Here are 5 small, low-cost tools I&hellip;",
+            "content_html": "<p>If you’ve ever thought, “There must be a better way to do this,” — you’re right. Often, it's not about hiring a team or buying complex software. It's about finding <strong>tiny tools</strong> that quietly do the heavy lifting.</p>\n<p>Here are 5 small, low-cost tools I use every day that have a huge impact on productivity, clarity, and consistency.</p>\n<h5><strong>1. CleanShot X — Best Screenshot Tool (Mac)</strong></h5>\n<p>More than screenshots. I use it to annotate, blur sensitive info, and record quick screen videos with audio. It saves hours in back-and-forth messages.</p>\n<p><strong>Time saved:</strong> ~30 min/day</p>\n<h5><strong>2. Typedesk — Canned Response System</strong></h5>\n<p>Creates shortcuts for repeat replies. Emails, DMs, proposals — done in seconds. I use <code>/followup</code> and <code>/proposal</code> daily to respond faster with consistency.</p>\n<p><strong>Time saved:</strong> ~15 min/day</p>\n<h5><strong>3. Notion Web Clipper</strong></h5>\n<p>I use this to save articles, ideas, and research into Notion with one click. Paired with a “Read Later” board, it keeps my browser clean and brain organized.</p>\n<p><strong>Time saved:</strong> ~20 min/day (and less context switching)</p>\n<h5><strong>4. Cron Calendar</strong></h5>\n<p>A minimal, beautiful calendar (now part of Notion) that makes time-blocking frictionless. Drag-and-drop, command palette, keyboard nav — all super fast.</p>\n<p><strong>Time saved:</strong> ~10 min/day planning + better focus</p>\n<h5><strong>5. Raycast — Mac Spotlight on Steroids</strong></h5>\n<p>Quickly launch apps, run scripts, convert units, check weather, or do math — all from a shortcut. My hands barely leave the keyboard.</p>\n<p><strong>Time saved:</strong> Hard to quantify — but feels like magic.</p>\n<p><strong>Total time saved:</strong> 1–2 hours per day. These tools are so embedded in my workflow that I notice instantly when one breaks or lags.</p>\n<h5>You should also read:</h5>\n<ul>\n<li><a href=\"https://www.timestacked.com/the-99-tech-stack-that-replaces-a-2500month-team.html\">The $99 Tech Stack That Replaces a $2,500/month Team</a></li>\n<li><a href=\"https://www.timestacked.com/ai-tools-i-use-weekly-and-what-i-ditched.html\">AI Tools I Use Weekly (and What I Ditched)</a></li>\n</ul>",
+            "author": {
+                "name": "Alex Deighton"
+            },
+            "tags": [
+                   "Productivity"
+            ],
+            "date_published": "2025-08-05T17:09:59+02:00",
+            "date_modified": "2025-08-05T17:09:59+02:00"
+        },
+        {
             "id": "https://www.timestacked.com/productivity-tools-that-actually-make-you-faster-not-just-busier.html",
             "url": "https://www.timestacked.com/productivity-tools-that-actually-make-you-faster-not-just-busier.html",
             "title": "Productivity Tools That Actually Make You Faster (Not Just Busier)",
@@ -163,23 +178,6 @@
             ],
             "date_published": "2025-08-02T18:33:17+02:00",
             "date_modified": "2025-08-03T11:52:30+02:00"
-        },
-        {
-            "id": "https://www.timestacked.com/freelancers-and-consultants.html",
-            "url": "https://www.timestacked.com/freelancers-and-consultants.html",
-            "title": "Top Tools for Freelancers and Consultants to Run a Lean Business",
-            "summary": "Your time is money. These tools help you stay organized, impress clients, and get paid without the admin chaos. 1. Bonsai — Proposals, Invoicing, CRM All your business ops in one sleek dashboard. 2. Notion — Projects &amp; Client Notes Manage deliverables, timelines, and briefs&hellip;",
-            "content_html": "<p data-start=\"5046\" data-end=\"5170\">Your time is money. <br>These tools help you <strong>stay organized</strong>, <strong>impress clients</strong>, and <strong>get paid </strong>without the admin chaos.<br><br><br>1. <strong data-start=\"5266\" data-end=\"5279\">Bonsai</strong> — Proposals, Invoicing, CRM<br data-start=\"5307\" data-end=\"5310\">All your business ops in one sleek dashboard.</p>\n<p data-start=\"5357\" data-end=\"5468\">2. <strong data-start=\"5357\" data-end=\"5370\">Notion</strong> — Projects &amp; Client Notes<br data-start=\"5396\" data-end=\"5399\">Manage deliverables, timelines, and briefs in one flexible workspace.</p>\n<p data-start=\"5470\" data-end=\"5569\">3. <strong data-start=\"5470\" data-end=\"5481\">Loom</strong> — Client Comms Without Calls<br data-start=\"5510\" data-end=\"5513\">Send fast updates or walkthroughs and skip the meetings.</p>\n<p data-start=\"5571\" data-end=\"5662\">4. <strong data-start=\"5571\" data-end=\"5584\">Stripe</strong> — Get Paid, Stress-Free<br data-start=\"5608\" data-end=\"5611\">Charge clients easily and look like a pro doing it.</p>\n<p data-start=\"5664\" data-end=\"5760\">5. <strong data-start=\"5664\" data-end=\"5679\">Clockify</strong> — Time Tracking That’s Actually Good<br data-start=\"5716\" data-end=\"5719\">Track billable hours and stay profitable.<br><br><br><strong data-start=\"5762\" data-end=\"5779\">Bonus Tip: </strong>Set boundaries early with clients using a clear “welcome doc” — automate professionalism.</p>\n<p class=\"msg msg--success\" data-start=\"5664\" data-end=\"5760\">Don't waste hours testing random apps. <br>Explore our Curated Toolkits — vetted, ranked, and ROI-focused.<br><br>👉<a href=\"https://www.timestacked.com/top-tools.html\"> Browse Top Tools</a></p>\n<hr>\n<p data-start=\"5664\" data-end=\"5760\"><strong>About TimeStacked</strong><br>We help creators and professionals save time, make money, and work smarter. No fluff — just real tools.</p>",
-            "image": "https://www.timestacked.com/media/posts/18/keenan-beasley-7g5gW-j62E8-unsplash.jpg",
-            "author": {
-                "name": "Alex Deighton"
-            },
-            "tags": [
-                   "Notion",
-                   "Freelancers"
-            ],
-            "date_published": "2025-08-02T18:30:53+02:00",
-            "date_modified": "2025-08-03T12:13:22+02:00"
         }
     ]
 }
