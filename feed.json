@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.timestacked.com/build-routines-that-boost-output.html",
+            "url": "https://www.timestacked.com/build-routines-that-boost-output.html",
+            "title": "Build Routines That Boost Output",
+            "summary": "Forget 5 AM miracle mornings. The best routines are the ones you actually stick to. Here's a flexible routine that keeps my output high—even on chaotic days: Start with a focus ritual: Mine is reviewing my 3 top goals for the day. Time-block deep work:&hellip;",
+            "content_html": "<p data-start=\"933\" data-end=\"1102\">Forget 5 AM miracle mornings. The best routines are the ones you actually stick to. Here's a flexible routine that keeps my output high—even on chaotic days:</p>\n<ul data-start=\"1104\" data-end=\"1400\">\n<li data-start=\"1104\" data-end=\"1184\">\n<p data-start=\"1106\" data-end=\"1184\"><strong data-start=\"1106\" data-end=\"1135\">Start with a focus ritual</strong>: Mine is reviewing my 3 top goals for the day.</p>\n</li>\n<li data-start=\"1185\" data-end=\"1264\">\n<p data-start=\"1187\" data-end=\"1264\"><strong data-start=\"1187\" data-end=\"1211\">Time-block deep work</strong>: One 90-minute block is enough to move the needle.</p>\n</li>\n<li data-start=\"1265\" data-end=\"1327\">\n<p data-start=\"1267\" data-end=\"1327\"><strong data-start=\"1267\" data-end=\"1283\">Midday reset</strong>: A walk or quiet break clears mental fog.</p>\n</li>\n<li data-start=\"1328\" data-end=\"1400\">\n<p data-start=\"1330\" data-end=\"1400\"><strong data-start=\"1330\" data-end=\"1353\">End with a shutdown</strong>: I jot down tomorrow’s 3 priorities in Notion.</p>\n</li>\n</ul>\n<p data-start=\"1402\" data-end=\"1564\">The key? Make it repeatable, not rigid. Your routine should support your energy, not drain it. Try tweaking yours to work <em data-start=\"1524\" data-end=\"1530\">with</em> your natural flow—not against it.</p>",
+            "author": {
+                "name": "Alex Deighton"
+            },
+            "tags": [
+                   "Productivity"
+            ],
+            "date_published": "2025-08-06T21:33:19+02:00",
+            "date_modified": "2025-08-06T21:33:19+02:00"
+        },
+        {
             "id": "https://www.timestacked.com/my-weekly-workflow-stack.html",
             "url": "https://www.timestacked.com/my-weekly-workflow-stack.html",
             "title": "My Weekly Workflow Stack",
@@ -157,22 +172,6 @@
             ],
             "date_published": "2025-08-06T18:57:16+02:00",
             "date_modified": "2025-08-06T19:09:25+02:00"
-        },
-        {
-            "id": "https://www.timestacked.com/99-stack-for-side-hustlers.html",
-            "url": "https://www.timestacked.com/99-stack-for-side-hustlers.html",
-            "title": "$99 Stack for Side Hustlers",
-            "summary": "You don’t need an expensive setup to launch. Here’s a lean, under-$99/month stack I use (and love): Carrd: One-page site builder ($19/year) ConvertKit: Email list and automations (Free tier or $9/mo) Notion: All-in-one dashboard (Free) Gumroad: Sell products or services (Free + fee per sale)&hellip;",
-            "content_html": "<p data-pm-slice=\"1 1 []\">You don’t need an expensive setup to launch. Here’s a lean, under-$99/month stack I use (and love):</p>\n<ul data-spread=\"false\">\n<li>\n<p><strong>Carrd</strong>: One-page site builder ($19/year)</p>\n</li>\n<li>\n<p><strong>ConvertKit</strong>: Email list and automations (Free tier or $9/mo)</p>\n</li>\n<li>\n<p><strong>Notion</strong>: All-in-one dashboard (Free)</p>\n</li>\n<li>\n<p><strong>Gumroad</strong>: Sell products or services (Free + fee per sale)</p>\n</li>\n<li>\n<p><strong>TidyCal</strong>: Booking tool ($29 one-time)</p>\n</li>\n</ul>\n<p>That’s a fully functional business toolkit—website, email, scheduling, and sales—for less than $100. Low cost, high ROI.</p>",
-            "author": {
-                "name": "Alex Deighton"
-            },
-            "tags": [
-                   "Side Hustle",
-                   "Productivity"
-            ],
-            "date_published": "2025-08-06T18:48:12+02:00",
-            "date_modified": "2025-08-06T18:55:45+02:00"
         }
     ]
 }

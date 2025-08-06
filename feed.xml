@@ -3,12 +3,48 @@
     <title>TimeStacked</title>
     <link href="https://www.timestacked.com/feed.xml" rel="self" />
     <link href="https://www.timestacked.com" />
-    <updated>2025-08-06T21:10:25+02:00</updated>
+    <updated>2025-08-06T21:33:19+02:00</updated>
     <author>
         <name>Alex Deighton</name>
     </author>
     <id>https://www.timestacked.com</id>
 
+    <entry>
+        <title>Build Routines That Boost Output</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/build-routines-that-boost-output.html"/>
+        <id>https://www.timestacked.com/build-routines-that-boost-output.html</id>
+            <category term="Productivity"/>
+
+        <updated>2025-08-06T21:33:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Forget 5 AM miracle mornings. The best routines are the ones you actually stick to. Here's a flexible routine that keeps my output high—even on chaotic days: Start with a focus ritual: Mine is reviewing my 3 top goals for the day. Time-block deep work:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-start="933" data-end="1102">Forget 5 AM miracle mornings. The best routines are the ones you actually stick to. Here's a flexible routine that keeps my output high—even on chaotic days:</p>
+<ul data-start="1104" data-end="1400">
+<li data-start="1104" data-end="1184">
+<p data-start="1106" data-end="1184"><strong data-start="1106" data-end="1135">Start with a focus ritual</strong>: Mine is reviewing my 3 top goals for the day.</p>
+</li>
+<li data-start="1185" data-end="1264">
+<p data-start="1187" data-end="1264"><strong data-start="1187" data-end="1211">Time-block deep work</strong>: One 90-minute block is enough to move the needle.</p>
+</li>
+<li data-start="1265" data-end="1327">
+<p data-start="1267" data-end="1327"><strong data-start="1267" data-end="1283">Midday reset</strong>: A walk or quiet break clears mental fog.</p>
+</li>
+<li data-start="1328" data-end="1400">
+<p data-start="1330" data-end="1400"><strong data-start="1330" data-end="1353">End with a shutdown</strong>: I jot down tomorrow’s 3 priorities in Notion.</p>
+</li>
+</ul>
+<p data-start="1402" data-end="1564">The key? Make it repeatable, not rigid. Your routine should support your energy, not drain it. Try tweaking yours to work <em data-start="1524" data-end="1530">with</em> your natural flow—not against it.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>My Weekly Workflow Stack</title>
         <author>
@@ -358,46 +394,6 @@
 </li>
 </ul>
 <p>These tools are intuitive, low-maintenance, and easy to scale up or down. They help you stay focused on the work—without overcomplicating how you manage it.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>$99 Stack for Side Hustlers</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/99-stack-for-side-hustlers.html"/>
-        <id>https://www.timestacked.com/99-stack-for-side-hustlers.html</id>
-            <category term="Side Hustle"/>
-            <category term="Productivity"/>
-
-        <updated>2025-08-06T18:48:12+02:00</updated>
-            <summary>
-                <![CDATA[
-                    You don’t need an expensive setup to launch. Here’s a lean, under-$99/month stack I use (and love): Carrd: One-page site builder ($19/year) ConvertKit: Email list and automations (Free tier or $9/mo) Notion: All-in-one dashboard (Free) Gumroad: Sell products or services (Free + fee per sale)&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p data-pm-slice="1 1 []">You don’t need an expensive setup to launch. Here’s a lean, under-$99/month stack I use (and love):</p>
-<ul data-spread="false">
-<li>
-<p><strong>Carrd</strong>: One-page site builder ($19/year)</p>
-</li>
-<li>
-<p><strong>ConvertKit</strong>: Email list and automations (Free tier or $9/mo)</p>
-</li>
-<li>
-<p><strong>Notion</strong>: All-in-one dashboard (Free)</p>
-</li>
-<li>
-<p><strong>Gumroad</strong>: Sell products or services (Free + fee per sale)</p>
-</li>
-<li>
-<p><strong>TidyCal</strong>: Booking tool ($29 one-time)</p>
-</li>
-</ul>
-<p>That’s a fully functional business toolkit—website, email, scheduling, and sales—for less than $100. Low cost, high ROI.</p>
             ]]>
         </content>
     </entry>
