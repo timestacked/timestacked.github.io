@@ -26,21 +26,6 @@
             "date_modified": "2025-08-06T19:26:04+02:00"
         },
         {
-            "id": "https://www.timestacked.com/set-boundaries-with-tools-2.html",
-            "url": "https://www.timestacked.com/set-boundaries-with-tools-2.html",
-            "title": "Set Boundaries with Tools",
-            "summary": "Burnout starts when you say “yes” too much—or don’t say “no” at all. These tools help you draw the line, professionally: Calendly or TidyCal: Show availability, eliminate surprises. Notion Handbook: Set rules around communication, delivery, and revisions. Canned Email Replies: Templates for scope creep, rush&hellip;",
-            "content_html": "<p data-start=\"3103\" data-end=\"3235\">Burnout starts when you say “yes” too much—or don’t say “no” at all. These tools help you draw the line, professionally:</p>\n<ul data-start=\"3237\" data-end=\"3476\">\n<li data-start=\"3237\" data-end=\"3305\">\n<p data-start=\"3239\" data-end=\"3305\"><strong data-start=\"3239\" data-end=\"3262\">Calendly or TidyCal</strong>: Show availability, eliminate surprises.</p>\n</li>\n<li data-start=\"3306\" data-end=\"3387\">\n<p data-start=\"3308\" data-end=\"3387\"><strong data-start=\"3308\" data-end=\"3327\">Notion Handbook</strong>: Set rules around communication, delivery, and revisions.</p>\n</li>\n<li data-start=\"3388\" data-end=\"3476\">\n<p data-start=\"3390\" data-end=\"3476\"><strong data-start=\"3390\" data-end=\"3414\">Canned Email Replies</strong>: Templates for scope creep, rush jobs, or off-hours requests.</p>\n</li>\n</ul>\n<p data-start=\"3478\" data-end=\"3610\">Instead of repeating yourself or getting drained, let the system speak for you. These tools create space—for you and your best work.</p>",
-            "author": {
-                "name": "Alex Deighton"
-            },
-            "tags": [
-                   "Client Management"
-            ],
-            "date_published": "2025-08-06T19:24:05+02:00",
-            "date_modified": "2025-08-06T19:24:05+02:00"
-        },
-        {
             "id": "https://www.timestacked.com/solo-founder-stack.html",
             "url": "https://www.timestacked.com/solo-founder-stack.html",
             "title": "Solo Founder Stack",
@@ -121,7 +106,7 @@
                    "Client Management"
             ],
             "date_published": "2025-08-06T19:14:25+02:00",
-            "date_modified": "2025-08-06T19:14:25+02:00"
+            "date_modified": "2025-08-06T21:10:25+02:00"
         },
         {
             "id": "https://www.timestacked.com/script-bank-for-freelancers.html",
@@ -172,6 +157,22 @@
             ],
             "date_published": "2025-08-06T18:57:16+02:00",
             "date_modified": "2025-08-06T19:09:25+02:00"
+        },
+        {
+            "id": "https://www.timestacked.com/99-stack-for-side-hustlers.html",
+            "url": "https://www.timestacked.com/99-stack-for-side-hustlers.html",
+            "title": "$99 Stack for Side Hustlers",
+            "summary": "You don’t need an expensive setup to launch. Here’s a lean, under-$99/month stack I use (and love): Carrd: One-page site builder ($19/year) ConvertKit: Email list and automations (Free tier or $9/mo) Notion: All-in-one dashboard (Free) Gumroad: Sell products or services (Free + fee per sale)&hellip;",
+            "content_html": "<p data-pm-slice=\"1 1 []\">You don’t need an expensive setup to launch. Here’s a lean, under-$99/month stack I use (and love):</p>\n<ul data-spread=\"false\">\n<li>\n<p><strong>Carrd</strong>: One-page site builder ($19/year)</p>\n</li>\n<li>\n<p><strong>ConvertKit</strong>: Email list and automations (Free tier or $9/mo)</p>\n</li>\n<li>\n<p><strong>Notion</strong>: All-in-one dashboard (Free)</p>\n</li>\n<li>\n<p><strong>Gumroad</strong>: Sell products or services (Free + fee per sale)</p>\n</li>\n<li>\n<p><strong>TidyCal</strong>: Booking tool ($29 one-time)</p>\n</li>\n</ul>\n<p>That’s a fully functional business toolkit—website, email, scheduling, and sales—for less than $100. Low cost, high ROI.</p>",
+            "author": {
+                "name": "Alex Deighton"
+            },
+            "tags": [
+                   "Side Hustle",
+                   "Productivity"
+            ],
+            "date_published": "2025-08-06T18:48:12+02:00",
+            "date_modified": "2025-08-06T18:55:45+02:00"
         }
     ]
 }

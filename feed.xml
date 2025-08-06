@@ -3,7 +3,7 @@
     <title>TimeStacked</title>
     <link href="https://www.timestacked.com/feed.xml" rel="self" />
     <link href="https://www.timestacked.com" />
-    <updated>2025-08-06T19:26:04+02:00</updated>
+    <updated>2025-08-06T21:10:25+02:00</updated>
     <author>
         <name>Alex Deighton</name>
     </author>
@@ -43,39 +43,6 @@
 </li>
 </ul>
 <p data-start="4273" data-end="4446">The workflow starts every Sunday with a 20-minute plan, then each tool supports a different layer: goals, time, and action. No overthinking—just systems that keep me moving.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Set Boundaries with Tools</title>
-        <author>
-            <name>Alex Deighton</name>
-        </author>
-        <link href="https://www.timestacked.com/set-boundaries-with-tools-2.html"/>
-        <id>https://www.timestacked.com/set-boundaries-with-tools-2.html</id>
-            <category term="Client Management"/>
-
-        <updated>2025-08-06T19:24:05+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Burnout starts when you say “yes” too much—or don’t say “no” at all. These tools help you draw the line, professionally: Calendly or TidyCal: Show availability, eliminate surprises. Notion Handbook: Set rules around communication, delivery, and revisions. Canned Email Replies: Templates for scope creep, rush&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p data-start="3103" data-end="3235">Burnout starts when you say “yes” too much—or don’t say “no” at all. These tools help you draw the line, professionally:</p>
-<ul data-start="3237" data-end="3476">
-<li data-start="3237" data-end="3305">
-<p data-start="3239" data-end="3305"><strong data-start="3239" data-end="3262">Calendly or TidyCal</strong>: Show availability, eliminate surprises.</p>
-</li>
-<li data-start="3306" data-end="3387">
-<p data-start="3308" data-end="3387"><strong data-start="3308" data-end="3327">Notion Handbook</strong>: Set rules around communication, delivery, and revisions.</p>
-</li>
-<li data-start="3388" data-end="3476">
-<p data-start="3390" data-end="3476"><strong data-start="3390" data-end="3414">Canned Email Replies</strong>: Templates for scope creep, rush jobs, or off-hours requests.</p>
-</li>
-</ul>
-<p data-start="3478" data-end="3610">Instead of repeating yourself or getting drained, let the system speak for you. These tools create space—for you and your best work.</p>
             ]]>
         </content>
     </entry>
@@ -391,6 +358,46 @@
 </li>
 </ul>
 <p>These tools are intuitive, low-maintenance, and easy to scale up or down. They help you stay focused on the work—without overcomplicating how you manage it.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>$99 Stack for Side Hustlers</title>
+        <author>
+            <name>Alex Deighton</name>
+        </author>
+        <link href="https://www.timestacked.com/99-stack-for-side-hustlers.html"/>
+        <id>https://www.timestacked.com/99-stack-for-side-hustlers.html</id>
+            <category term="Side Hustle"/>
+            <category term="Productivity"/>
+
+        <updated>2025-08-06T18:48:12+02:00</updated>
+            <summary>
+                <![CDATA[
+                    You don’t need an expensive setup to launch. Here’s a lean, under-$99/month stack I use (and love): Carrd: One-page site builder ($19/year) ConvertKit: Email list and automations (Free tier or $9/mo) Notion: All-in-one dashboard (Free) Gumroad: Sell products or services (Free + fee per sale)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-pm-slice="1 1 []">You don’t need an expensive setup to launch. Here’s a lean, under-$99/month stack I use (and love):</p>
+<ul data-spread="false">
+<li>
+<p><strong>Carrd</strong>: One-page site builder ($19/year)</p>
+</li>
+<li>
+<p><strong>ConvertKit</strong>: Email list and automations (Free tier or $9/mo)</p>
+</li>
+<li>
+<p><strong>Notion</strong>: All-in-one dashboard (Free)</p>
+</li>
+<li>
+<p><strong>Gumroad</strong>: Sell products or services (Free + fee per sale)</p>
+</li>
+<li>
+<p><strong>TidyCal</strong>: Booking tool ($29 one-time)</p>
+</li>
+</ul>
+<p>That’s a fully functional business toolkit—website, email, scheduling, and sales—for less than $100. Low cost, high ROI.</p>
             ]]>
         </content>
     </entry>
