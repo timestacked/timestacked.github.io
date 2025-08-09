@@ -3,7 +3,7 @@
     <title>TimeStacked</title>
     <link href="https://www.timestacked.com/feed.xml" rel="self" />
     <link href="https://www.timestacked.com" />
-    <updated>2025-08-07T16:10:18+02:00</updated>
+    <updated>2025-08-09T10:50:29+02:00</updated>
     <author>
         <name>Alex Deighton</name>
     </author>
@@ -376,24 +376,30 @@
         <updated>2025-08-06T18:57:16+02:00</updated>
             <summary>
                 <![CDATA[
-                    Project management doesn’t need to be a second job. You can stay organized without heavy platforms. Here’s a setup I use for solo and micro-projects: Notion: Create task lists, store files, and centralize planning. Trello: Use Kanban boards for quick visual overviews. Slack or Discord:&hellip;
+                    Not every project needs Jira-level complexity. Here’s a simple, no-bloat stack for solo work or small collaborations: Notion – Create task lists, store notes, and track progress. Trello – Kanban boards for a quick, visual workflow. Slack – Keep communication in channels, not your inbox.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p data-pm-slice="1 1 []">Project management doesn’t need to be a second job. You can stay organized without heavy platforms. Here’s a setup I use for solo and micro-projects:</p>
-<ul data-spread="false">
-<li>
-<p><strong>Notion</strong>: Create task lists, store files, and centralize planning.</p>
+                <p data-start="3578" data-end="3709">Not every project needs Jira-level complexity. Here’s a simple, no-bloat stack for solo work or small collaborations:</p>
+<ol data-start="3711" data-end="4018">
+<li data-start="3711" data-end="3780">
+<p data-start="3714" data-end="3780"><strong data-start="3714" data-end="3724">Notion</strong> – Create task lists, store notes, and track progress.</p>
 </li>
-<li>
-<p><strong>Trello</strong>: Use Kanban boards for quick visual overviews.</p>
+<li data-start="3781" data-end="3842">
+<p data-start="3784" data-end="3842"><strong data-start="3784" data-end="3794">Trello</strong> – Kanban boards for a quick, visual workflow.</p>
 </li>
-<li>
-<p><strong>Slack or Discord</strong>: Keep communications async and organized.</p>
+<li data-start="3843" data-end="3907">
+<p data-start="3846" data-end="3907"><strong data-start="3846" data-end="3855">Slack</strong> – Keep communication in channels, not your inbox.</p>
 </li>
-</ul>
-<p>These tools are intuitive, low-maintenance, and easy to scale up or down. They help you stay focused on the work—without overcomplicating how you manage it.</p>
+<li data-start="3908" data-end="3966">
+<p data-start="3911" data-end="3966"><strong data-start="3911" data-end="3930">Google Calendar</strong> – Block focus time and deadlines.</p>
+</li>
+<li data-start="3967" data-end="4018">
+<p data-start="3970" data-end="4018"><strong data-start="3970" data-end="3981">Dropbox</strong> – Simple file storage and sharing.</p>
+</li>
+</ol>
+<p data-start="4020" data-end="4157">This stack is low-maintenance and easy to onboard collaborators. You can focus on delivering work—not managing the work about the work.</p>
 <p data-pm-slice="1 1 []"><strong style="font-family: var(--font-base); font-size: 1.125em; letter-spacing: var(--letter-spacing);">You should also read:</strong></p>
 <ul>
 <li><span data-sheets-root="1"><a href="https://www.timestacked.com/top-tools-for-remote-teams.html">Top 5 Tools for Remote Teams</a></span></li>
